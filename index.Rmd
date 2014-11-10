@@ -1,0 +1,77 @@
+---
+title       : Estimate MPG for vehicles
+subtitle    : An analysis of 2014 vehicle data
+author      : Annie Flippo - 11/9/2014
+job         : Developing Data Products Coursera class, part of Johns Hopkins Data Science Series
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # {tomorrow, zenburn, solarized_light}
+widgets     : []            # {mathjax, quiz, bootstrap}
+ext_widgets : {rCharts: libraries/nvd3}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+--- 
+
+## Introduction
+This project uses the [2014 Kiplinger's New Car Rankings: Compare Costs, Performance data](http://www.kiplinger.com/tool/cars/T011-S001-2012-new-car-rankings-compare-costs-performance-da/index.php?table=all&mfr=&filter=all?id=all) to analyze the City and Highway MPG based on vehicle attributes. 
+
+Modern vehicles have new attributes that may be important in determining MPG such as
+- Fuel type (i.e. Flexible Fuel, Hybrid)
+- Transmission type (i.e. Hybrid)
+- Drivetrain (All-wheel, front-wheel, rear-wheel drive)
+
+The significant predictors from the final analyses were used to create an interactive Shiny App to estimate City and Highway MPG.  You might want to [Estimate Your Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/) with this calculator before buying your new car.
+
+--- .class #id 
+
+## Data Gathering and Preparation
+
+There were 1626 new vehicle listed in the Kiplinger's data set.  Many of the vehicles listed were a flavor of the base model such as Acura ILX 2.0L 4d and Acura ILX 2.0L 4d w/Premium Pkg.  Duplicates of make and model combinations were removed, based on trim/technology or other superficial options, because the data point is already represented in its base make/model.  The final dataset consists of the base models and their variations in:
+- number of cylinders
+- engine fuel type (diesel, flexible fuel, gas, hybrid)
+- engine displacement (in liters)
+- transmission type (automatic or manual)
+- drivetrain type (all-wheel, front-wheel, rear-wheel drive)
+- weight (in pounds)
+
+In addition, all electric vehicles were eliminated as they do not use conventional fuel and their MPG is stated by another measure, eMPG.  The final data set consists of 1473 rows.
+
+--- .class #id 
+
+## The Analysis
+
+1. Stepwise model selection was performed using stepAIC to tease out significant predictors.  
+2. Predictors (at 95% significant level) were used to perform a linear regression on city\_mpg and hwy\_mpg.
+3. This resulted in simple linear equation that could be easily implemented.
+
+*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine, go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/)
+
+```{r ,comment="", message=F, echo=F, warning=F}
+library(dplyr)
+by_eng_type <- group_by(kipcars, eng_type)
+eng_type_percent <- summarise(by_eng_type, percent_of_data = n()*100/nrow(kipcars))
+
+eng_type_percent
+```
+
+--- .class #id 
+
+## Interactive Graph of MPG vs Fuel Type 
+#### Grouped by number of cylinders  
+
+To select or deselect number of cylinders shown in the graph, click on the number legend on the upper-right corner. 
+
+```{r nvd3plot2, results='asis', comment=NA, message=F, echo=F} 
+require(rCharts)
+
+n1 <- nPlot(city_mpg ~ eng_type, group = 'cyl', type = 'multiBarHorizontalChart', data=kipcars, main="City MPG for cylinder")
+n1$chart(showControls = F)
+n1$xAxis(axisLabel = "Miles per Gallon")
+n1$addParams(width = 700, height = 400, dom = 'chart1', title = "City MPG for Number of Cylinders")
+n1 
+```
+
+
+
+
+

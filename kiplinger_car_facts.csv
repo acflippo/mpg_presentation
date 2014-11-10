@@ -1,0 +1,1474 @@
+"make_model","city_mpg","hwy_mpg","eng_type","torque","hp","cyl","displacement","drivetrain","transmission","weight"
+Acura ILX 2.0L 4dr,24,35,Gas,140,150,4,2.0,FWD,Auto,2955
+Acura ILX Hybrid 4d,39,38,Hybrid,127,111,4,1.5,FWD,Auto,2959
+Buick Verano Convenience Group 4dr,21,32,Flexible Fuel,171,180,4,2.4,FWD,Auto,3300
+Buick Verano Leather Group 4dr,21,32,Flexible Fuel,171,180,4,2.4,FWD,Auto,3300
+Buick Verano Premium Group 4dr,21,30,Gas,260,250,4,2.0,FWD,Auto,3300
+Chevrolet Cruze Diesel 4dr 1S,27,46,Diesel,258,148,4,2.0,FWD,Auto,3475
+Chrysler 200 Limited 4dr,19,29,Gas,260,283,6,3.6,FWD,Auto,3575
+Chrysler 200 Touring convertible,18,29,Gas,260,283,6,3.6,FWD,Auto,3898
+Dodge Avenger R/T 4dr,19,29,Flexible Fuel,260,283,6,3.6,FWD,Auto,3607
+Dodge Charger SE RWD 4dr,18,27,Gas,260,292,6,3.6,RWD,Auto,3961
+FIAT 500 Abarth convertibl,28,34,Gas,170,160,4,1.4,FWD,Manual,2545
+Ford Fusion SE Hybrid 4dr,47,47,Hybrid,129,141,4,2.0,FWD,Auto,3639
+Ford Taurus SE 4dr,19,29,Gas,270,288,6,3.5,FWD,Auto,4054
+Ford Taurus SEL 4dr,19,29,Gas,270,288,6,3.5,FWD,Auto,4054
+Honda Accord EX 2dr,26,34,Gas,181,185,4,2.4,FWD,Auto,3298
+Honda Accord EX 2d,24,34,Gas,181,185,4,2.4,FWD,Manual,3229
+Honda Accord EX 4dr,27,36,Gas,181,185,4,2.4,FWD,Auto,3336
+Honda Accord EX 4d,24,34,Gas,181,185,4,2.4,FWD,Manual,3267
+Honda Accord EX-L 2dr,26,34,Gas,181,185,4,2.4,FWD,Auto,3320
+Honda Accord EX-L 4dr,27,36,Gas,181,185,4,2.4,FWD,Auto,3358
+Honda Accord Hybrid 4d,50,45,Hybrid,122,196,4,2.0,FWD,Auto,3550
+Honda Accord LX-S 2dr,26,34,Gas,181,185,4,2.4,FWD,Auto,3252
+Honda Accord Sport 4dr,26,34,Gas,182,196,4,2.4,FWD,Auto,3342
+Honda Civic Hybrid 4dr,44,44,Hybrid,127,110,4,1.5,FWD,Auto,2873
+Honda Civic Hybrid 4dr w/ Leather,44,44,Hybrid,127,110,4,1.5,FWD,Auto,2873
+Honda Civic Hybrid 4dr w/ Leather & Navi,44,44,Hybrid,127,110,4,1.5,FWD,Auto,2873
+Honda Civic Hybrid 4dr w/Navi,44,44,Hybrid,127,110,4,1.5,FWD,Auto,2873
+Honda Civic Si 2dr w/ Navi & summer tire,22,31,Gas,170,201,4,2.4,FWD,Manual,3002
+Honda Civic Si 4dr w/Nav,22,31,Gas,170,201,4,2.4,FWD,Manual,3002
+Kia Optima SX 4dr,23,34,Gas,181,192,4,2.4,FWD,Auto,3327
+Kia Optima SX Turbo 4dr,20,31,Gas,269,274,4,2.0,FWD,Auto,3622
+Mazda3 i Grand Touring 4dr hatch,30,40,Gas,150,155,4,2.0,FWD,Auto,2873
+Mazda3 s Grand Touring 4dr,28,39,Gas,185,184,4,2.5,FWD,Auto,2982
+Mazda3 s Grand Touring 4dr hatch,27,37,Gas,185,184,4,2.5,FWD,Auto,3002
+Mazda3 s Touring 4dr,28,39,Gas,185,184,4,2.5,FWD,Auto,2982
+Mazda3 s Touring 4dr hatch,27,37,Gas,185,184,4,2.5,FWD,Auto,3002
+Mazda6 i Touring 4dr,26,38,Gas,185,184,4,2.5,FWD,Auto,3232
+Mini Cooper Clubman S 2dr hatch,26,35,Gas,177,181,4,1.6,FWD,Manual,2833
+Mini Cooper Convertible,28,35,Gas,114,121,4,1.6,FWD,Manual,2701
+Mini Cooper Convertible S,26,35,Gas,177,181,4,1.6,FWD,Manual,2811
+Mini Cooper Countryman S 4dr hatc,26,32,Gas,177,181,4,1.6,FWD,Manual,3053
+Mini Cooper Countryman S ALL4 AWD 4dr hatc,25,31,Gas,177,181,4,1.6,AWD,Manual,3208
+Mini Cooper Coupe S 2d,26,35,Gas,177,181,4,1.6,FWD,Manual,2679
+Mini Cooper Paceman S 2dr hatc,26,32,Gas,177,181,4,1.6,FWD,Manual,3070
+Mini Cooper Paceman S ALL4 AWD 2dr hatc,25,31,Gas,177,181,4,1.6,AWD,Manual,3210
+Mini Cooper Roadste,28,35,Gas,114,121,4,1.6,FWD,Manual,2635
+Mini Cooper Roadster ,26,35,Gas,177,181,4,1.6,FWD,Manual,2745
+Mitsubishi Lancer Ralliart AWD 4dr,18,25,Gas,253,237,4,2.0,AWD,Auto,3461
+Nissan Altima 2.5 SL 4dr,27,38,Gas,180,182,4,2.5,FWD,Auto,3230
+Nissan Altima 3.5 S 4dr,22,31,Gas,251,270,6,3.5,FWD,Auto,3363
+Nissan Altima 3.5 SV 4dr,22,31,Gas,251,270,6,3.5,FWD,Auto,3394
+Subaru Impreza WRX AWD 4d,19,25,Gas,244,265,4,2.5,AWD,Manual,3208
+Subaru Impreza WRX AWD 4dr hatc,19,25,Gas,244,265,4,2.5,AWD,Manual,3208
+Subaru Impreza WRX Premium AWD 4d,19,25,Gas,244,265,4,2.5,AWD,Manual,3241
+Subaru Impreza WRX Premium AWD 4dr hatc,19,25,Gas,244,265,4,2.5,AWD,Manual,3241
+Subaru Legacy 2.5i Limited 4dr,24,32,Gas,174,173,4,2.5,AWD,Auto,3424
+Subaru Legacy 2.5i Limited 4dr (PZEV,24,32,Gas,174,173,4,2.5,AWD,Auto,3424
+Subaru Legacy 2.5i Sport 4dr,24,32,Gas,174,173,4,2.5,AWD,Auto,3439
+Subaru Legacy 2.5i Sport 4dr (PZEV,24,32,Gas,174,173,4,2.5,AWD,Auto,3439
+Subaru Legacy 3.6R Limited 4dr,18,25,Gas,247,256,6,3.6,AWD,Auto,3545
+Toyota Camry LE Hybrid 4dr,43,39,Hybrid,156,156,4,2.5,FWD,Auto,3435
+Toyota Camry SE Sport 4dr,25,35,Gas,170,178,4,2.5,FWD,Auto,3240
+Toyota Camry V6 SE 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3420
+Toyota Camry XLE 4dr,25,35,Gas,170,178,4,2.5,FWD,Auto,3245
+Toyota Camry XLE Hybrid 4dr,40,38,Hybrid,156,156,4,2.5,FWD,Auto,3525
+Toyota Prius Four 4dr hatch,51,48,Hybrid,105,98,4,1.8,FWD,Auto,3042
+Toyota Prius Three 4dr hatch,51,48,Hybrid,105,98,4,1.8,FWD,Auto,3042
+Toyota Prius Two 4dr hatch,51,48,Hybrid,105,98,4,1.8,FWD,Auto,3042
+Volkswagen Beetle 2dr hatch w/Sun Roof Sound & Navigation,22,29,Gas,177,170,5,2.5,FWD,Auto,3036
+Volkswagen Beetle 2dr hatch w/Sun Roof Sound & Navigatio,22,31,Gas,177,170,5,2.5,FWD,Manual,2987
+Volkswagen Beetle convertible,21,27,Gas,177,170,5,2.5,FWD,Auto,3206
+Volkswagen Beetle convertible w/Sound & Navigation,21,27,Gas,177,170,5,2.5,FWD,Auto,3206
+Volkswagen Beetle convertible w/Technology,21,27,Gas,177,170,5,2.5,FWD,Auto,3206
+Volkswagen Beetle R-Line 2dr hatch,24,30,Gas,207,210,4,2.0,FWD,Auto,3104
+Volkswagen Beetle R-Line 2dr hatc,23,31,Gas,207,210,4,2.0,FWD,Manual,3056
+Volkswagen Beetle R-Line 2dr hatch w/Sun Roof & Sound,24,30,Gas,207,210,4,2.0,FWD,Auto,3104
+Volkswagen Beetle R-Line 2dr hatch w/Sun Roof & Soun,23,31,Gas,207,210,4,2.0,FWD,Manual,3056
+Volkswagen Beetle R-Line convertibl,23,31,Gas,207,210,4,2.0,FWD,Manual,3238
+Volkswagen Beetle TDI 2dr hatch,29,39,Diesel,236,140,4,2.0,FWD,Auto,3157
+Volkswagen Beetle TDI 2dr hatc,28,41,Diesel,236,140,4,2.0,FWD,Manual,3115
+Volkswagen Beetle TDI 2dr hatch w/Sun Roof Sound & Navigation,29,39,Diesel,236,140,4,2.0,FWD,Auto,3157
+Volkswagen Beetle TDI 2dr hatch w/Sun Roof Sound & Navigatio,28,41,Diesel,236,140,4,2.0,FWD,Manual,3115
+Volkswagen Beetle TDI convertibl,28,41,Diesel,236,140,4,2.0,FWD,Manual,3296
+Volkswagen Golf TDI 4dr hatch,30,42,Diesel,236,140,4,2.0,FWD,Auto,3120
+Volkswagen Golf TDI 4dr hatc,30,42,Diesel,236,140,4,2.0,FWD,Manual,3074
+Volkswagen Golf TDI 4dr hatch w/Moon Roof & Navigatio,30,42,Diesel,236,140,4,2.0,FWD,Auto,3120
+Volkswagen Golf TDI 4dr hatch w/Moon Roof & Navigatio,30,42,Diesel,236,140,4,2.0,FWD,Manual,3074
+Volkswagen GTI Wolfsburg Edition 4dr hatch,24,32,Gas,207,200,4,2.0,FWD,Auto,3160
+Volkswagen GTI Wolfsburg Edition 4dr hatch,21,31,Gas,207,200,4,2.0,FWD,Manual,3113
+Volkswagen Jetta GLI 4dr,24,32,Gas,207,210,4,2.0,FWD,Auto,3169
+Volkswagen Jetta GLI 4d,23,33,Gas,207,210,4,2.0,FWD,Manual,3131
+Volkswagen Jetta GLI Autobahn 4dr,24,32,Gas,207,210,4,2.0,FWD,Auto,3169
+Volkswagen Jetta GLI Autobahn 4d,23,33,Gas,207,210,4,2.0,FWD,Manual,3131
+Volkswagen Jetta GLI Autobahn 4dr w/Navigatio,23,33,Gas,207,210,4,2.0,FWD,Manual,3131
+Volkswagen Jetta Hybrid SE 4dr,42,48,Hybrid,184,150,4,1.4,FWD,Auto,3312
+Volkswagen Jetta SEL 4dr,25,36,Gas,184,170,4,1.8,FWD,Auto,3074
+Volkswagen Jetta TDI 4dr,30,42,Diesel,236,140,4,2.0,FWD,Auto,3210
+Volkswagen Jetta TDI 4dr w/Premium Pk,30,42,Diesel,236,140,4,2.0,FWD,Auto,3210
+Volkswagen Jetta TDI 4dr w/Premium Pk,30,42,Diesel,236,140,4,2.0,FWD,Manual,3162
+Volkswagen Jetta TDI 4dr w/Premium Pkg & Navigatio,30,42,Diesel,236,140,4,2.0,FWD,Auto,3210
+Volkswagen Jetta TDI 4dr w/Premium Pkg & Navigatio,30,42,Diesel,236,140,4,2.0,FWD,Manual,3162
+Volkswagen Passat SE 4dr,22,31,Gas,177,170,5,2.5,FWD,Auto,3221
+Volkswagen Passat SE 4dr w/Moon Roo,22,31,Gas,177,170,5,2.5,FWD,Auto,3221
+Volkswagen Passat SE 4dr w/Moon Roof & Navigatio,22,31,Gas,177,170,5,2.5,FWD,Auto,3221
+Volkswagen Passat TDI SE 4dr,31,43,Diesel,236,140,4,2.0,FWD,Manual,3393
+Volkswagen Passat TDI SE 4dr w/Moon Roo,30,40,Diesel,236,140,4,2.0,FWD,Auto,3459
+Acura ILX 2.0L 4dr w/Premium Pk,24,35,Gas,140,150,4,2.0,FWD,Auto,2959
+Acura ILX 2.0L 4dr w/Technology Pk,24,35,Gas,140,150,4,2.0,FWD,Auto,2970
+Acura ILX 2.4L 4dr w/Premium Pk,22,31,Gas,170,201,4,2.4,FWD,Manual,2978
+Acura ILX Hybrid 4dr w/Technology Pk,39,38,Hybrid,127,111,4,1.5,FWD,Auto,2987
+Acura TL 4dr,20,29,Gas,254,280,6,3.5,FWD,Auto,3726
+Acura TL Special Edition 4dr,20,29,Gas,254,280,6,3.5,FWD,Auto,3726
+Acura TSX 4dr,22,31,Gas,170,201,4,2.4,FWD,Auto,3479
+Acura TSX 4dr w/Special Editio,22,31,Gas,170,201,4,2.4,FWD,Auto,3486
+Acura TSX 4dr w/Special Editio,21,29,Gas,172,201,4,2.4,FWD,Manual,3415
+Acura TSX 4dr w/Technology Pk,22,31,Gas,170,201,4,2.4,FWD,Auto,3490
+Audi A4 Premium 4dr,24,32,Gas,258,211,4,2.0,FWD,Auto,3516
+Audi A4 Premium Plus 4dr,24,32,Gas,258,211,4,2.0,FWD,Auto,3516
+Audi A4 Premium Plus Quattro AWD 4d,22,32,Gas,258,211,4,2.0,AWD,Manual,3616
+Audi A4 Premium Quattro AWD 4d,20,29,Gas,258,211,4,2.0,AWD,Auto,3692
+Audi A4 Premium Quattro AWD 4d,22,32,Gas,258,211,4,2.0,AWD,Manual,3616
+Audi A5 Premium Quattro AWD 2d,22,32,Gas,258,220,4,2.0,AWD,Manual,3583
+BMW 228i RWD 2d,23,35,Gas,258,240,4,2.0,RWD,Auto,3300
+BMW 320i RWD 4dr,24,36,Gas,200,180,4,2.0,RWD,Auto,3295
+BMW 320i xDrive AWD 4dr,23,35,Gas,200,180,4,2.0,AWD,Auto,3450
+BMW 328d RWD 4dr,32,45,Diesel,280,180,4,2.0,RWD,Auto,3460
+BMW 328i RWD 4dr,23,35,Gas,255,240,4,2.0,RWD,Auto,3360
+Buick LaCrosse 4dr,25,36,Gas,172,182,4,2.4,FWD,Auto,3765
+Buick LaCrosse Leather 4dr,25,36,Gas,172,182,4,2.4,FWD,Auto,3765
+Buick LaCrosse Leather AWD 4dr,17,26,Gas,264,304,6,3.6,AWD,Auto,3906
+Buick LaCrosse Premium I 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,3906
+Buick Regal 4dr,21,30,Gas,295,259,4,2.0,FWD,Auto,3692
+Buick Regal AWD 4dr,19,27,Gas,295,259,4,2.0,AWD,Auto,3692
+Buick Regal GS 4dr,21,30,Gas,295,259,4,2.0,FWD,Auto,3725
+Buick Regal Premium I 4dr,21,30,Gas,295,259,4,2.4,FWD,Auto,3642
+Buick Regal Premium I AWD 4dr,19,27,Gas,295,259,4,2.0,AWD,Auto,3702
+Buick Regal Premium II 4dr,21,30,Gas,295,259,4,2.0,FWD,Auto,3722
+Buick Regal Premium II AWD 4dr,19,27,Gas,295,259,4,2.0,AWD,Auto,3722
+Cadillac ATS 2.0L Standard AWD 4dr,20,29,Gas,260,272,4,2.0,AWD,Auto,3542
+Cadillac ATS 2.0L Standard RWD 4dr,21,31,Gas,260,272,4,2.0,RWD,Auto,3373
+Cadillac ATS 2.5L Luxury RWD 4dr,22,33,Gas,190,202,4,2.5,RWD,Auto,3319
+Cadillac ATS 2.5L Standard RWD 4dr,22,33,Gas,190,202,4,2.5,RWD,Auto,3319
+Chevrolet Impala LT Eco 4d,25,35,Gas,172,182,4,2.4,FWD,Auto,3800
+Chevrolet Impala LTZ 4dr w/1L,21,31,Gas,187,196,4,2.5,FWD,Auto,3800
+Chevrolet Impala V6 LT 4dr w/2L,19,29,Flexible Fuel,264,305,6,3.6,FWD,Auto,3950
+Chevrolet Impala V6 LTZ 4dr w/2LZ,19,29,Flexible Fuel,264,305,6,3.6,FWD,Auto,3950
+Chevrolet Malibu LTZ 4dr w/2L,21,30,Gas,260,259,4,2.0,FWD,Auto,3499
+Chevrolet Volt 4dr,35,40,Hybrid,273,149,4,1.4,FWD,Auto,3786
+Chrysler 200 Limited convertible,19,29,Flexible Fuel,260,283,6,3.6,FWD,Auto,4000
+Chrysler 200 S convertible,19,29,Flexible Fuel,260,283,6,3.6,FWD,Auto,4000
+Chrysler 300 AWD 4dr,18,27,Gas,260,292,6,3.6,AWD,Auto,3999
+Chrysler 300 RWD 4dr,19,31,Gas,260,292,6,3.6,RWD,Auto,3999
+Chrysler 300C RWD 4dr,19,31,Gas,264,300,6,3.6,RWD,Auto,4326
+Chrysler 300S AWD 4dr,18,27,Gas,264,300,6,3.6,AWD,Auto,4235
+Chrysler 300S RWD 4dr,19,31,Gas,264,300,6,3.6,RWD,Auto,4029
+Dodge Charger R/T AWD 4dr,15,23,Gas,395,370,8,5.7,AWD,Auto,4450
+Dodge Charger R/T Max RWD 4dr,15,25,Gas,395,370,8,5.7,RWD,Auto,4253
+Dodge Charger R/T Plus AWD 4dr,15,23,Gas,395,370,8,5.7,AWD,Auto,4450
+Dodge Charger R/T Plus RWD 4dr,15,25,Gas,395,370,8,5.7,RWD,Auto,4253
+Dodge Charger R/T RWD 4dr,15,25,Gas,395,370,8,5.7,RWD,Auto,4253
+Dodge Charger SXT AWD 4dr,18,27,Gas,260,292,6,3.6,AWD,Auto,4151
+Dodge Charger SXT Plus AWD 4dr,18,27,Gas,260,292,6,3.6,AWD,Auto,4151
+Dodge Charger SXT Plus RWD 4dr,19,31,Gas,260,292,6,3.6,RWD,Auto,3996
+Dodge Charger SXT RWD 4dr,19,31,Gas,260,292,6,3.6,RWD,Auto,3996
+Ford Fusion Energi Plug-In Hybrid SE Luxury 4dr,44,41,Hybrid,129,141,4,2.0,FWD,Auto,3913
+Ford Fusion Titanium 4dr,22,33,Gas,270,240,4,2.0,FWD,Auto,3427
+Ford Fusion Titanium AWD 4dr,22,31,Gas,270,240,4,2.0,AWD,Auto,3427
+Ford Fusion Titanium Hybrid 4dr,47,47,Hybrid,129,141,4,2.0,FWD,Auto,3639
+Ford Taurus Limited 4dr,19,29,Gas,270,288,6,3.5,FWD,Auto,4054
+Ford Taurus Limited AWD 4dr,18,26,Gas,254,288,6,3.5,AWD,Auto,4249
+Ford Taurus SEL AWD 4dr,18,26,Gas,254,288,6,3.5,AWD,Auto,4249
+Honda Accord EX-L V6 2d,18,28,Gas,252,278,6,3.5,FWD,Manual,3397
+Honda Accord EX-L 2dr w/Navigatio,26,34,Gas,181,185,4,2.4,FWD,Auto,3322
+Honda Accord EX-L V6 2dr w/Navigatio,18,28,Gas,252,278,6,3.5,FWD,Manual,3400
+Honda Accord EX-L 4dr w/Navigatio,27,36,Gas,181,185,4,2.4,FWD,Auto,3365
+Honda Accord Hybrid EX-L 4d,50,45,Hybrid,122,196,4,2.0,FWD,Auto,3595
+Honda Accord Hybrid Touring 4d,50,45,Hybrid,122,196,4,2.0,FWD,Auto,3602
+Honda Accord Touring 4dr,21,34,Gas,252,278,6,3.5,FWD,Auto,3559
+Honda Accord V6 EX-L 2dr,21,32,Gas,252,278,6,3.5,FWD,Auto,3528
+Honda Accord V6 EX-L 2dr w/Navigatio,21,32,Gas,252,278,6,3.5,FWD,Auto,3536
+Honda Accord V6 EX-L 4dr,21,34,Gas,252,278,6,3.5,FWD,Auto,3554
+Honda Accord V6 EX-L 4dr w/Navigatio,21,34,Gas,252,278,6,3.5,FWD,Auto,3559
+Hyundai Genesis 3.8 4dr,18,27,Gas,291,333,6,3.8,RWD,Auto,4019
+Infiniti Q50 AWD 4dr,19,27,Gas,269,328,6,3.7,AWD,Auto,3748
+Infiniti Q50 RWD 4dr,20,29,Gas,269,328,6,3.7,RWD,Auto,3574
+Kia Cadenza Premium 4dr,19,28,Gas,255,293,6,3.3,FWD,Auto,3688
+Kia Optima SXL Turbo 4dr,20,31,Gas,269,274,4,2.0,FWD,Auto,3327
+Lexus CT 200h 4dr hatc,43,40,Hybrid,105,134,4,1.8,FWD,Auto,3150
+Lexus ES 350 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3549
+Lexus IS 250 Sport AWD 4dr,20,27,Gas,185,204,6,2.5,AWD,Auto,3649
+Lexus IS 250 Sport RWD 4dr,21,30,Gas,185,204,6,2.5,RWD,Auto,3461
+Lincoln MKZ 4dr,22,33,Gas,277,300,6,3.7,FWD,Auto,3719
+Lincoln MKZ AWD 4dr,22,31,Gas,277,300,6,3.7,AWD,Auto,3719
+Lincoln MKZ Hybrid 4dr,45,45,Hybrid,129,188,4,2.0,FWD,Auto,3719
+Mazda6 i Grand Touring 4dr,26,38,Gas,185,184,4,2.5,FWD,Auto,3232
+Mercedes-Benz C250 Luxury RWD 4dr,22,31,Gas,229,201,4,1.8,RWD,Auto,3428
+Mercedes-Benz C250 RWD 2dr,22,31,Gas,229,201,4,1.8,RWD,Auto,3428
+Mercedes-Benz C250 Sport RWD 4dr,22,31,Gas,229,201,4,1.8,RWD,Auto,3428
+Mercedes-Benz CLA250 4dr,26,38,Gas,258,208,4,2.0,FWD,Auto,3264
+Mini Cooper Clubman John Cooper Works 2dr hatch,26,35,Gas,192,208,4,1.6,FWD,Manual,2844
+Mini Cooper Convertible John Cooper Works,26,35,Gas,192,208,4,1.6,FWD,Manual,2822
+Mini Cooper Countryman John Cooper Works ALL4 AWD 4dr hatc,25,31,Gas,207,208,4,1.6,AWD,Manual,3263
+Mini Cooper Roadster John Cooper Work,26,35,Gas,192,208,4,1.6,FWD,Manual,2767
+Mini Cooper Paceman John Cooper Works ALL4 AWD 2dr hatc,25,31,Gas,207,208,4,1.6,AWD,Manual,3260
+Nissan Altima 3.5 SL 4dr,22,31,Gas,251,270,6,3.5,FWD,Auto,3422
+Nissan Maxima S 4dr,19,26,Gas,261,290,6,3.5,FWD,Auto,3550
+Nissan Maxima SV 4dr,19,26,Gas,261,290,6,3.5,FWD,Auto,3570
+Subaru Impreza WRX Limited AWD 4d,19,25,Gas,244,265,4,2.5,AWD,Manual,3252
+Subaru Impreza WRX Limited AWD 4dr hatc,19,25,Gas,244,265,4,2.5,AWD,Manual,3252
+Toyota Avalon 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3461
+Toyota Avalon Premium 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3461
+Toyota Avalon Premium Hybrid 4dr,40,39,Hybrid,156,200,4,2.5,FWD,Auto,3594
+Toyota Avalon Touring 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3505
+Toyota Avalon Touring Hybrid 4dr,40,39,Hybrid,156,200,4,2.5,FWD,Auto,3594
+Toyota Camry V6 XLE 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3395
+Toyota Prius Five 4dr hatch,51,48,Hybrid,105,98,4,1.8,FWD,Auto,3042
+Toyota Prius Plug-in 4dr hatch (Limited Availability,51,49,Hybrid,105,98,4,1.8,FWD,Auto,3165
+Toyota Prius Plug-in Advanced 4dr hatch (Limited Availability,51,49,Hybrid,105,98,4,1.8,FWD,Auto,3165
+Volkswagen Beetle R-Line 2dr hatch w/Sun Roof Sound & Navigation,24,30,Gas,207,210,4,2.0,FWD,Auto,3104
+Volkswagen Beetle R-Line 2dr hatch w/Sun Roof Sound & Navigatio,23,31,Gas,207,210,4,2.0,FWD,Manual,3056
+Volkswagen Beetle R-Line convertible,23,29,Gas,207,210,4,2.0,FWD,Auto,3278
+Volkswagen Beetle R-Line convertible w/Sound,23,29,Gas,207,210,4,2.0,FWD,Auto,3278
+Volkswagen Beetle R-Line convertible w/Soun,23,31,Gas,207,210,4,2.0,FWD,Manual,3238
+Volkswagen Beetle R-Line convertible w/Sound & Navigation,23,29,Gas,207,210,4,2.0,FWD,Auto,3278
+Volkswagen Beetle R-Line convertible w/Sound & Navigatio,23,31,Gas,207,210,4,2.0,FWD,Manual,3238
+Volkswagen Beetle TDI convertible,28,37,Diesel,236,140,4,2.0,FWD,Auto,3340
+Volkswagen Beetle TDI convertible w/Sound & Navigation,28,37,Diesel,236,140,4,2.0,FWD,Auto,3340
+Volkswagen Beetle TDI convertible w/Sound & Navigatio,28,41,Diesel,236,140,4,2.0,FWD,Manual,3296
+Volkswagen CC Executive 4dr,22,31,Gas,207,200,4,2.0,FWD,Auto,3369
+Volkswagen CC R-Line 4dr,22,31,Gas,207,200,4,2.0,FWD,Auto,3369
+Volkswagen CC R-Line 4dr,21,32,Gas,207,200,4,2.0,FWD,Manual,3358
+Volkswagen CC Sport 4dr,22,31,Gas,207,200,4,2.0,FWD,Auto,3369
+Volkswagen CC Sport 4dr,21,32,Gas,207,200,4,2.0,FWD,Manual,3358
+Volkswagen Eos Komfort convertible,22,30,Gas,207,200,4,2.0,FWD,Auto,3508
+Volkswagen Eos Sport convertible,22,30,Gas,207,200,4,2.0,FWD,Auto,3508
+Volkswagen GTI Driver's Edition 4dr hatch,24,32,Gas,207,200,4,2.0,FWD,Auto,3160
+Volkswagen GTI Driver's Edition 4dr hatch,21,31,Gas,207,200,4,2.0,FWD,Manual,3113
+Volkswagen Jetta GLI Autobahn 4dr w/Navigatio,24,32,Gas,207,210,4,2.0,FWD,Auto,3169
+Volkswagen Jetta Hybrid SEL 4dr,42,48,Hybrid,184,150,4,1.4,FWD,Auto,3312
+Volkswagen Jetta Hybrid SEL Premium 4dr,42,48,Hybrid,184,150,4,1.4,FWD,Auto,3312
+Volkswagen Passat SEL Premium 4dr,24,34,Gas,184,170,4,1.8,FWD,Auto,3230
+Volkswagen Passat TDI SE 4dr w/Moon Roof & Navigatio,30,40,Diesel,236,140,4,2.0,FWD,Auto,3459
+Volkswagen Passat TDI SEL Premium 4dr,30,40,Diesel,236,140,4,2.0,FWD,Auto,3459
+Volkswagen Passat V6 SE 4dr w/Moon Roo,20,28,Gas,258,280,6,3.6,FWD,Auto,3481
+Volkswagen Passat V6 SEL Premium 4dr,20,28,Gas,258,280,6,3.6,FWD,Auto,3481
+Volvo S60 T5 4dr,21,30,Gas,266,250,5,2.5,FWD,Auto,3528
+Volvo S60 T5 Platinum 4dr,21,30,Gas,266,250,5,2.5,FWD,Auto,3528
+Volvo S60 T5 Premier 4dr,21,30,Gas,266,250,5,2.5,FWD,Auto,3528
+Volvo S60 T5 Premier Plus 4dr,21,30,Gas,266,250,5,2.5,FWD,Auto,3528
+Buick Verano 4dr,21,32,Flexible Fuel,171,180,4,2.4,FWD,Auto,3300
+Chevrolet Cruze 1LT 4dr w/1S,26,38,Gas,148,138,4,1.4,FWD,Auto,3102
+Chevrolet Cruze 2LT 4dr w/1S,26,38,Gas,148,138,4,1.4,FWD,Manual,3102
+Chevrolet Cruze 2LT 4dr w/1S,26,38,Gas,148,138,4,1.4,FWD,Auto,3102
+Chevrolet Cruze eco 4dr w/1S,28,42,Gas,148,138,4,1.4,FWD,Manual,3097
+Chevrolet Cruze eco 4dr w/1S,26,39,Gas,148,138,4,1.4,FWD,Auto,3097
+Chevrolet Cruze LTZ 4dr w/1S,26,38,Gas,148,138,4,1.4,FWD,Auto,3097
+Chevrolet Malibu LS 4dr w/1L,25,36,Gas,191,197,4,2.5,FWD,Auto,3393
+Chevrolet Malibu LT 4dr w/1L,25,36,Gas,191,197,4,2.5,FWD,Auto,3393
+Chevrolet Sonic LTZ 4dr hatch,25,35,Gas,148,138,4,1.8,FWD,Auto,2776
+Chevrolet Sonic RS 4dr hatch,25,33,Gas,148,138,4,1.4,FWD,Auto,2811
+Chevrolet Sonic RS 4dr hatc,27,34,Gas,148,138,4,1.4,FWD,Manual,2811
+Chrysler 200 LX 4dr,19,29,Flexible Fuel,260,283,6,3.6,FWD,Auto,3402
+Chrysler 200 Touring 4dr,20,31,Gas,260,283,6,3.6,FWD,Auto,3402
+Dodge Avenger SE 4dr,21,30,Gas,260,283,6,3.6,FWD,Auto,3400
+Dodge Avenger SXT 4dr,20,31,Gas,260,283,6,3.6,FWD,Auto,3607
+Dodge Dart Aero 4d,28,41,Gas,184,160,4,1.4,FWD,Manual,3191
+Dodge Dart GT 4d,23,33,Gas,171,184,4,2.4,FWD,Manual,3297
+Dodge Dart Limited 4dr,23,35,Gas,171,184,4,2.4,FWD,Auto,3348
+FIAT 500 Abarth 2dr hatc,28,34,Gas,170,160,4,1.4,FWD,Manual,2512
+FIAT 500 Turbo 2dr hatc,28,34,Gas,150,135,4,1.4,FWD,Manual,2477
+FIAT 500c Lounge convertibl,31,40,Gas,98,101,4,1.4,FWD,Manual,2411
+FIAT 500c Pop convertibl,31,40,Gas,98,101,4,1.4,FWD,Manual,2411
+FIAT 500L Easy 4dr hatc,25,33,Gas,184,160,4,1.4,FWD,Manual,3203
+FIAT 500L Lounge 4dr hatch,24,33,Gas,184,160,4,1.4,FWD,Auto,3254
+FIAT 500L Trekking 4dr hatc,25,33,Gas,184,160,4,1.4,FWD,Manual,3203
+Ford Fiesta ST 4dr hatch (Late Availability,26,35,Gas,215,197,4,1.6,FWD,Manual,2720
+Ford Focus ST 4dr hatc,23,32,Gas,270,252,4,2.0,FWD,Manual,3223
+Ford Focus Titanium 4dr,26,37,Gas,146,160,4,2.0,FWD,Auto,3055
+Ford Focus Titanium 4dr hatch,26,37,Gas,146,160,4,2.0,FWD,Auto,3043
+Ford Fusion S 4dr,22,34,Gas,175,175,4,2.5,FWD,Auto,3427
+Ford Fusion SE 4dr,22,34,Gas,175,175,4,2.5,FWD,Auto,3427
+Honda Accord LX 4dr,27,36,Gas,181,185,4,2.4,FWD,Auto,3254
+Honda Accord LX 4d,24,34,Gas,181,185,4,2.4,FWD,Manual,3192
+Honda Accord LX-S 2d,24,34,Gas,181,185,4,2.4,FWD,Manual,3186
+Honda Accord Sport 4d,24,34,Gas,182,189,4,2.4,FWD,Manual,3276
+Honda Civic EX 2d,29,38,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic EX 2d,28,36,Gas,129,143,4,1.8,FWD,Manual,2811
+Honda Civic EX 4d,30,39,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic EX-L 2d,29,38,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic EX-L 2dr w/Navigatio,29,38,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic EX-L 4d,30,39,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic HF 4d,31,41,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Civic Si 2dr w/Nav,22,31,Gas,170,201,4,2.4,FWD,Manual,3002
+Honda CR-Z 2dr,36,39,Hybrid,127,130,4,1.5,FWD,Auto,2694
+Honda CR-Z 2d,31,38,Hybrid,140,130,4,1.5,FWD,Manual,2639
+Honda CR-Z EX 2dr,36,39,Hybrid,127,130,4,1.5,FWD,Auto,2710
+Honda CR-Z EX 2d,31,38,Hybrid,140,130,4,1.5,FWD,Manual,2658
+Honda CR-Z EX 2dr w/Navigatio,36,39,Hybrid,127,130,4,1.5,FWD,Auto,2716
+Honda CR-Z EX 2dr w/Navigatio,31,38,Hybrid,140,130,4,1.5,FWD,Manual,2663
+Honda Insight EX 4dr hatc,41,44,Hybrid,123,98,4,1.3,FWD,Auto,2762
+Honda Insight EX 4dr hatch w/Navigatio,41,44,Hybrid,123,98,4,1.3,FWD,Auto,2767
+Honda Insight LX 4dr hatc,41,44,Hybrid,123,98,4,1.3,FWD,Auto,2756
+Hyundai Elantra GT 4dr hatc,24,34,Gas,154,173,4,2.0,FWD,Manual,2908
+Hyundai Elantra Limited 4d,27,37,Gas,130,145,4,1.8,FWD,Auto,2818
+Hyundai Elantra Sport 4d,24,35,Gas,154,173,4,2.0,FWD,Auto,2818
+Hyundai Veloster Turbo 2dr hatch w/Black Interior Colo,24,31,Gas,195,201,4,1.6,FWD,Auto,2888
+Hyundai Veloster Turbo 2dr hatch w/Black Interior Colo,24,33,Gas,195,201,4,1.6,FWD,Manual,2800
+Hyundai Veloster Turbo 2dr hatch w/Blue Interior Colo,24,31,Gas,195,201,4,1.6,FWD,Auto,2888
+Hyundai Veloster Turbo 2dr hatch w/Blue Interior Colo,24,33,Gas,195,201,4,1.6,FWD,Manual,2800
+Kia Forte EX 4dr,24,36,Gas,154,173,4,2.0,FWD,Auto,2857
+Kia Forte Koup SX 2d,22,30,Gas,195,201,4,1.6,FWD,Auto,2871
+Kia Forte5 SX 4dr hatc,21,29,Gas,195,201,4,1.6,FWD,Auto,2912
+Kia Optima EX 4dr,23,34,Gas,181,192,4,2.4,FWD,Auto,3272
+Kia Optima LX 4dr,23,34,Gas,181,192,4,2.4,FWD,Auto,3237
+Kia Soul ! 4dr hatc,23,31,Gas,151,164,4,2.0,FWD,Auto,2714
+Mazda3 i Grand Touring 4dr,30,41,Gas,150,155,4,2.0,FWD,Auto,2866
+Mazda3 i Grand Touring 4d,29,41,Gas,150,155,4,2.0,FWD,Manual,2799
+Mazda3 i Grand Touring 4dr hatc,29,40,Gas,150,155,4,2.0,FWD,Manual,2815
+Mazda3 i Sport 4dr,30,41,Gas,150,155,4,2.0,FWD,Auto,2866
+Mazda3 i Sport 4dr hatch,30,40,Gas,150,155,4,2.0,FWD,Auto,2873
+Mazda3 i Touring 4dr,30,41,Gas,150,155,4,2.0,FWD,Auto,2866
+Mazda3 i Touring 4d,29,41,Gas,150,155,4,2.0,FWD,Manual,2799
+Mazda3 i Touring 4dr hatch,30,40,Gas,150,155,4,2.0,FWD,Auto,2873
+Mazda3 i Touring 4dr hatc,29,40,Gas,150,155,4,2.0,FWD,Manual,2815
+Mazda6 i Sport 4dr,26,38,Gas,185,184,4,2.5,FWD,Auto,3232
+Mazda6 i Sport 4d,25,37,Gas,185,184,4,2.5,FWD,Manual,3183
+Mazda6 i Touring 4d,25,37,Gas,185,184,4,2.5,FWD,Manual,3183
+Mini Cooper Clubman 2dr hatch,28,35,Gas,114,121,4,1.6,FWD,Manual,2712
+Mini Cooper Countryman 4dr hatc,28,35,Gas,114,121,4,1.6,FWD,Manual,2954
+Mini Cooper Coupe 2d,29,37,Gas,118,121,4,1.6,FWD,Manual,2557
+Mini Cooper Paceman 2dr hatc,28,35,Gas,118,121,4,1.6,FWD,Manual,2940
+Mitsubishi Lancer GT 4dr,23,30,Gas,167,168,4,2.4,FWD,Auto,3032
+Mitsubishi Lancer GT 4d,22,31,Gas,167,168,4,2.4,FWD,Manual,2966
+Mitsubishi Lancer GT Sportback 4dr hatc,22,29,Gas,167,168,4,2.4,FWD,Auto,3032
+Mitsubishi Lancer SE AWD 4dr,22,29,Gas,167,168,4,2.4,AWD,Auto,3120
+Nissan Altima 2.5 4dr,27,38,Gas,180,182,4,2.5,FWD,Auto,3182
+Nissan Altima 2.5 S 4dr,27,38,Gas,180,182,4,2.5,FWD,Auto,3193
+Nissan Altima 2.5 SV 4dr,27,38,Gas,180,182,4,2.5,FWD,Auto,3206
+Nissan Sentra SL 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2851
+Scion tC 10 Series 2dr hatch,23,31,Gas,172,172,4,2.5,FWD,Auto,3124
+Scion tC 10 Series 2dr hatc,23,31,Gas,172,172,4,2.5,FWD,Manual,3124
+Scion tC 2dr hatch,23,31,Gas,172,172,4,2.5,FWD,Auto,3124
+Subaru Impreza 2.0i AWD 4dr hatc,27,36,Gas,145,148,4,2.0,AWD,Auto,2910
+Subaru Impreza 2.0i Limited AWD 4dr,27,36,Gas,145,148,4,2.0,AWD,Auto,3053
+Subaru Impreza 2.0i Limited AWD 4dr hatc,27,36,Gas,145,148,4,2.0,AWD,Auto,3053
+Subaru Impreza 2.0i Premium AWD 4dr,27,36,Gas,145,148,4,2.0,AWD,Auto,3009
+Subaru Impreza 2.0i Premium AWD 4d,25,34,Gas,145,148,4,2.0,AWD,Manual,2954
+Subaru Impreza 2.0i Premium AWD 4dr hatc,27,36,Gas,145,148,4,2.0,AWD,Auto,3009
+Subaru Impreza 2.0i Premium AWD 4dr hatc,25,33,Gas,145,148,4,2.0,AWD,Manual,2954
+Subaru Impreza 2.0i Sport Limited AWD 4dr hatc,27,36,Gas,145,148,4,2.0,AWD,Auto,3086
+Subaru Impreza 2.0i Sport Premium AWD 4dr hatc,27,36,Gas,145,148,4,2.0,AWD,Auto,3075
+Subaru Impreza 2.0i Sport Premium AWD 4dr hatch- Manua,25,33,Gas,145,148,4,2.0,AWD,Manual,2998
+Subaru Legacy 2.5i 4dr,24,32,Gas,174,173,4,2.5,AWD,Auto,3392
+Subaru Legacy 2.5i 4d,22,29,Gas,174,173,4,2.5,AWD,Manual,3315
+Subaru Legacy 2.5i 4dr (PZEV,24,32,Gas,174,173,4,2.5,AWD,Auto,3392
+Subaru Legacy 2.5i Premium 4dr,24,32,Gas,174,173,4,2.5,AWD,Auto,3388
+Subaru Legacy 2.5i Premium 4dr (PZEV,24,32,Gas,174,173,4,2.5,AWD,Auto,3388
+Toyota Camry L 4dr,25,35,Gas,170,178,4,2.5,FWD,Auto,3190
+Toyota Camry LE 4dr,25,35,Gas,170,178,4,2.5,FWD,Auto,3190
+Toyota Camry SE 4dr,25,35,Gas,170,178,4,2.5,FWD,Auto,3240
+Toyota Corolla LE Eco Plus 4dr,30,40,Gas,126,140,4,1.8,FWD,Auto,2875
+Toyota Corolla LE Eco Premium 4dr,30,40,Gas,126,140,4,1.8,FWD,Auto,2875
+Toyota Corolla LE Premium 4dr,29,38,Gas,128,132,4,1.8,FWD,Auto,2855
+Toyota Corolla S Plus 4dr,29,37,Gas,128,132,4,1.8,FWD,Auto,2865
+Toyota Corolla S Plus 4d,28,37,Gas,128,132,4,1.8,FWD,Manual,2845
+Toyota Corolla S Premium 4dr,29,37,Gas,128,132,4,1.8,FWD,Auto,2865
+Toyota Prius c Four 4dr hatch,53,46,Hybrid,82,73,4,1.5,FWD,Auto,2500
+Toyota Prius c Three 4dr hatch,53,46,Hybrid,82,73,4,1.5,FWD,Auto,2500
+Toyota Prius c Two 4dr hatch,53,46,Hybrid,82,73,4,1.5,FWD,Auto,2500
+Volkswagen Beetle 2dr hatch,22,29,Gas,177,170,5,2.5,FWD,Auto,3036
+Volkswagen Beetle 2dr hatc,22,31,Gas,177,170,5,2.5,FWD,Manual,2987
+Volkswagen Beetle 2dr hatch w/Sun Roof,22,29,Gas,177,170,5,2.5,FWD,Auto,3036
+Volkswagen Beetle 2dr hatch w/Sun Roo,22,31,Gas,177,170,5,2.5,FWD,Manual,2987
+Volkswagen Golf 4dr hatch,23,30,Gas,177,170,5,2.5,FWD,Auto,3102
+Volkswagen Golf 4dr hatch w/Convenience Pkg & Moon Roo,23,30,Gas,177,170,5,2.5,FWD,Auto,3102
+Volkswagen Jetta SE 4dr,25,36,Gas,184,170,4,1.8,FWD,Auto,3074
+Volkswagen Jetta SE 4dr w/Connectivit,25,36,Gas,184,170,4,1.8,FWD,Auto,3074
+Volkswagen Jetta SE 4dr w/Connectivit,26,36,Gas,184,170,4,1.8,FWD,Manual,3021
+Volkswagen Jetta SE 4dr w/Connectivity & Moon Roo,25,36,Gas,184,170,4,1.8,FWD,Auto,3074
+Volkswagen Jetta SE 4dr w/Connectivity & Moon Roo,26,36,Gas,184,170,4,1.8,FWD,Manual,3021
+Volkswagen Jetta TDI 4d,30,42,Diesel,236,140,4,2.0,FWD,Manual,3162
+Volkswagen Passat S 4dr,22,31,Gas,177,170,5,2.5,FWD,Auto,3221
+Volkswagen Passat S 4d,22,32,Gas,177,170,5,2.5,FWD,Manual,3166
+Volkswagen Passat SE 4d,22,32,Gas,177,170,5,2.5,FWD,Manual,3166
+Acura RLX 4dr,20,31,Gas,272,310,6,3.5,FWD,Auto,3933
+Acura TL 4dr w/Advance Pk,20,29,Gas,254,280,6,3.5,FWD,Auto,3770
+Acura TL 4dr w/Technology Pk,20,29,Gas,254,280,6,3.5,FWD,Auto,3741
+Acura TL SH- AWD 4dr,18,26,Gas,273,305,6,3.7,AWD,Auto,3968
+Acura TL SH-AWD 4dr w/Advance Pk,18,26,Gas,273,305,6,3.7,AWD,Auto,4001
+Acura TL SH-AWD 4dr w/Technology Pk,18,26,Gas,273,305,6,3.7,AWD,Auto,3982
+Acura TL SH-AWD 4dr w/Technology Pk,17,25,Gas,273,305,6,3.7,AWD,Manual,3889
+Acura TSX V6 4dr w/Technology Pk,19,28,Gas,254,280,6,3.5,FWD,Auto,3680
+Audi A4 Premium Plus Quattro AWD 4d,20,29,Gas,258,211,4,2.0,AWD,Auto,3692
+Audi A4 Prestige 4dr,24,32,Gas,258,211,4,2.0,FWD,Auto,3516
+Audi A4 Prestige Quattro AWD 4d,20,29,Gas,258,211,4,2.0,AWD,Auto,3692
+Audi A4 Prestige Quattro AWD 4d,22,32,Gas,258,211,4,2.0,AWD,Manual,3616
+Audi A5 Premium convertible,24,32,Gas,258,220,4,2.0,FWD,Auto,3880
+Audi A5 Premium Plus convertible,24,32,Gas,258,220,4,2.0,FWD,Auto,3880
+Audi A5 Premium Plus Quattro AWD 2d,20,29,Gas,258,220,4,2.0,AWD,Auto,3682
+Audi A5 Premium Plus Quattro AWD 2d,22,32,Gas,258,220,4,2.0,AWD,Manual,3583
+Audi A5 Premium Quattro AWD 2dr,20,29,Gas,258,220,4,2.0,AWD,Auto,3682
+Audi A5 Premium Quattro AWD convertible,20,29,Gas,258,220,4,2.0,AWD,Auto,4045
+Audi A5 Prestige Quattro AWD 2d,22,32,Gas,258,220,4,2.0,AWD,Manual,3583
+Audi A6 2.0T Premium 4dr,25,33,Gas,258,220,4,2.0,FWD,Auto,3726
+Audi A6 2.0T Premium Plus 4dr,25,33,Gas,258,220,4,2.0,FWD,Auto,3726
+Audi A6 2.0T Premium Quattro AWD 4d,20,29,Gas,258,220,4,2.0,AWD,Auto,3957
+Audi S4 Premium Plus Quattro AWD 4d,17,26,Gas,325,333,6,3.0,AWD,Manual,3858
+BMW 328d xDrive AWD 4dr,31,43,Diesel,280,180,4,2.0,AWD,Auto,3620
+BMW 328i Gran Turismo xDrive AWD 4dr hatc,22,33,Gas,255,240,4,2.0,AWD,Auto,3915
+BMW 328i xDrive AWD 4dr,22,33,Gas,255,240,4,2.0,AWD,Auto,3595
+BMW 335i Gran Turismo xDrive AWD 4dr hatc,20,30,Gas,300,300,6,3.0,AWD,Auto,4010
+BMW 335i RWD 4dr,22,32,Gas,300,300,6,3.0,RWD,Auto,3545
+BMW 335i xDrive AWD 4dr,20,30,Gas,300,300,6,3.0,AWD,Auto,3695
+BMW 428i RWD 2dr,23,35,Gas,258,241,4,2.0,RWD,Auto,4385
+BMW 428i xDrive AWD 2dr,22,33,Gas,258,241,4,2.0,AWD,Auto,4540
+BMW 435i RWD 2dr,22,32,Gas,295,300,6,3.0,RWD,Auto,4505
+BMW 435i xDrive AWD 2dr,20,30,Gas,295,300,6,3.0,AWD,Auto,4650
+Buick LaCrosse Premium I AWD 4dr,17,26,Gas,264,304,6,3.6,AWD,Auto,3906
+Buick LaCrosse Premium II 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,3906
+Buick Regal GS AWD 4dr,19,27,Gas,295,259,4,2.0,AWD,Auto,3725
+Cadillac ATS 2.0L Luxury AWD 4dr,20,29,Gas,260,272,4,2.0,AWD,Auto,3542
+Cadillac ATS 2.0L Luxury RWD 4dr,21,31,Gas,260,272,4,2.0,RWD,Auto,3373
+Cadillac ATS 2.0L Performance AWD 4dr,20,29,Gas,260,272,4,2.0,AWD,Auto,3542
+Cadillac ATS 2.0L Performance RWD 4dr,21,31,Gas,260,272,4,2.0,RWD,Auto,3373
+Cadillac ATS 2.0L Premium AWD 4dr,20,29,Gas,260,272,4,2.0,AWD,Auto,3542
+Cadillac ATS 2.0L Premium RWD 4dr,21,31,Gas,260,272,4,2.0,RWD,Auto,3373
+Cadillac ATS 3.6L Luxury AWD 4dr,18,26,Flexible Fuel,275,321,6,3.6,AWD,Auto,3629
+Cadillac ATS 3.6L Luxury RWD 4dr,18,28,Flexible Fuel,275,321,6,3.6,RWD,Auto,3461
+Cadillac ATS 3.6L Performance AWD 4dr,18,26,Flexible Fuel,275,321,6,3.6,AWD,Auto,3629
+Cadillac ATS 3.6L Performance RWD 4dr,18,28,Flexible Fuel,275,321,6,3.6,RWD,Auto,3461
+Cadillac ATS 3.6L Premium AWD 4dr,18,26,Flexible Fuel,275,321,6,3.6,AWD,Auto,3629
+Cadillac ATS 3.6L Premium RWD 4dr,18,28,Flexible Fuel,275,321,6,3.6,RWD,Auto,3461
+Cadillac CTS 2.0 Standard Sport AWD 4dr,19,28,Gas,295,272,4,2.0,AWD,Auto,3772
+Cadillac CTS 2.0 Standard Sport RWD 4dr,20,30,Gas,295,272,4,2.0,RWD,Auto,3616
+Cadillac CTS 3.6 AWD 2dr,18,26,Gas,275,318,6,3.6,AWD,Auto,4102
+Cadillac CTS 3.6 Performance Collection AWD 2dr,18,26,Gas,275,318,6,3.6,AWD,Auto,4102
+Cadillac CTS 3.6 Performance Collection RWD 2dr,18,27,Gas,275,318,6,3.6,RWD,Auto,3915
+Cadillac CTS 3.6 Premium Collection RWD 2dr,18,27,Gas,275,318,6,3.6,RWD,Auto,3915
+Cadillac CTS 3.6 RWD 2dr,18,27,Gas,275,318,6,3.6,RWD,Auto,3915
+Cadillac XTS 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,4006
+Chevrolet SS 4dr,14,21,Gas,415,415,8,6.2,RWD,Auto,3975
+Chrysler 300C AWD 4dr,18,27,Gas,264,300,6,3.6,AWD,Auto,4515
+Chrysler 300C John Varvatos Luxury AWD 4dr,18,27,Gas,264,300,6,3.6,AWD,Auto,4515
+Chrysler 300C John Varvatos Luxury RWD 4dr,19,31,Gas,264,300,6,3.6,RWD,Auto,4326
+Dodge Charger R/T Max AWD 4dr,15,23,Gas,395,370,8,5.7,AWD,Auto,4450
+Dodge Charger SRT8 RWD 4dr,14,23,Gas,470,470,8,6.4,RWD,Auto,4365
+Dodge Charger SRT8 Super Bee RWD 4dr,14,23,Gas,470,470,8,6.4,RWD,Auto,4365
+Ford Fusion Energi Plug-In Hybrid Titanium 4dr,44,41,Hybrid,129,141,4,2.0,FWD,Auto,3913
+Ford Taurus SHO AWD 4dr,17,25,Gas,350,365,6,3.5,AWD,Auto,4455
+Honda Accord Plug-in Hybrid 4dr,47,46,Hybrid,122,182,4,2.0,FWD,Auto,3799
+Hyundai Genesis 5.0 R-Spec 4dr,15,23,Gas,376,429,8,5.0,RWD,Auto,4240
+Infiniti Q50 Premium AWD 4dr,19,27,Gas,269,328,6,3.7,AWD,Auto,3787
+Infiniti Q50 Premium RWD 4dr,20,29,Gas,269,328,6,3.7,RWD,Auto,3611
+Infiniti Q50 Hybrid Premium AWD 4dr,27,31,Hybrid,258,296,6,3.5,AWD,Auto,4085
+Infiniti Q50 Hybrid Premium RWD 4dr,29,36,Hybrid,258,296,6,3.5,RWD,Auto,3913
+Infiniti Q50 Sport AWD 4dr,19,27,Gas,269,328,6,3.7,AWD,Auto,3849
+Infiniti Q50 Sport RWD 4dr,20,29,Gas,269,328,6,3.7,RWD,Auto,3675
+Infiniti Q50 Sport Hybrid AWD 4dr,27,31,Hybrid,258,296,6,3.5,AWD,Auto,4145
+Infiniti Q50 Sport Hybrid RWD 4dr,28,34,Hybrid,258,296,6,3.5,RWD,Auto,3973
+Jaguar XF Sports RWD 4dr,19,30,Gas,251,240,4,2.0,RWD,Auto,3660
+Lexus ES 300h 4dr,40,39,Hybrid,156,156,4,2.5,FWD,Auto,3660
+Lexus GS 350 RWD 4dr,19,29,Gas,277,306,6,3.5,RWD,Auto,3795
+Lexus IS 250C Sport RWD convertible,21,30,Gas,185,204,6,2.5,RWD,Auto,3806
+Lexus IS 350 Sport AWD 4dr,19,26,Gas,277,306,6,3.5,AWD,Auto,3737
+Lexus IS 350 Sport RWD 4dr,19,28,Gas,277,306,6,3.5,RWD,Auto,3593
+Lexus IS 350C Sport RWD convertible,19,27,Gas,277,306,6,3.5,RWD,Auto,3872
+Lincoln MKS 4dr,19,28,Gas,279,304,6,3.7,FWD,Auto,4216
+Lincoln MKS AWD 4dr,18,26,Gas,279,304,6,3.7,AWD,Auto,4374
+Lincoln MKS EcoBoost AWD 4dr,17,25,Gas,350,365,6,3.5,AWD,Auto,4479
+Mercedes-Benz C300 4MATIC Luxury AWD 4dr,20,29,Gas,251,248,6,3.5,AWD,Auto,3737
+Mercedes-Benz C300 4MATIC Sport AWD 4dr,20,29,Gas,251,248,6,3.5,AWD,Auto,3726
+Mercedes-Benz C350 4MATIC AWD 2dr,19,27,Gas,273,302,6,3.5,AWD,Auto,3737
+Mercedes-Benz C350 RWD 2dr,20,28,Gas,273,302,6,3.5,RWD,Auto,3616
+Mercedes-Benz C350 Sport RWD 4dr,20,29,Gas,273,302,6,3.5,RWD,Auto,3616
+Mercedes-Benz CLA45 AMG 4MATIC AWD 4dr,23,31,Gas,332,355,4,2.0,AWD,Auto,3494
+Toyota Avalon Limited 4dr,21,31,Gas,248,268,6,3.5,FWD,Auto,3538
+Toyota Avalon Limited Hybrid 4dr,40,39,Hybrid,156,200,4,2.5,FWD,Auto,3638
+Volkswagen CC VR6 4Motion Executive AWD 4dr,17,25,Gas,265,280,6,3.6,AWD,Auto,3851
+Volkswagen Eos Executive convertible,22,30,Gas,207,200,4,2.0,FWD,Auto,3508
+Volvo S60 T6 AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,3812
+Volvo S60 T6 Platinum AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,3812
+Volvo S60 T6 Premier Plus AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,3812
+Volvo S60 T6 R-Design AWD 4dr,18,25,Gas,354,325,6,3.0,AWD,Auto,3835
+Volvo S60 T6 R-Design Platinum AWD 4dr,18,25,Gas,354,325,6,3.0,AWD,Auto,3835
+Volvo S80 3.2 4dr,20,29,Gas,236,240,6,3.2,FWD,Auto,3761
+Volvo S80 3.2 Platinum 4dr,20,29,Gas,236,240,6,3.2,FWD,Auto,3761
+Volvo S80 3.2 Premier Plus 4dr,20,29,Gas,236,240,6,3.2,FWD,Auto,3761
+Volvo S80 T6 AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,4053
+Volvo S80 T6 Platinum AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,4053
+Volvo S80 T6 Premier Plus AWD 4dr,18,25,Gas,325,300,6,3.0,AWD,Auto,4053
+Audi R8 Quattro AWD 2d,14,23,Gas,317,430,8,4.2,AWD,Auto,3638
+Audi R8 Quattro AWD 2d,11,20,Gas,317,430,8,4.2,AWD,Manual,3583
+Audi R8 Spyder Quattro AWD convertibl,14,23,Gas,317,430,8,4.2,AWD,Auto,3792
+Audi R8 Spyder Quattro AWD convertibl,11,20,Gas,317,430,8,4.2,AWD,Manual,3737
+Audi R8 V10 Plus Quattro AWD 2d,13,22,Gas,398,550,10,5.2,AWD,Auto,3660
+Audi R8 V10 Plus Quattro AWD 2d,12,19,Gas,398,550,10,5.2,AWD,Manual,3605
+Audi R8 V10 Quattro AWD 2d,13,22,Gas,391,525,10,5.2,AWD,Auto,3792
+Audi R8 V10 Quattro AWD 2d,12,19,Gas,391,525,10,5.2,AWD,Manual,3737
+Audi R8 V10 Spyder Quattro AWD convertibl,13,22,Gas,391,525,10,5.2,AWD,Auto,3957
+Audi R8 V10 Spyder Quattro AWD convertibl,12,19,Gas,391,525,10,5.2,AWD,Manual,3913
+Audi TT Quattro 2d,22,31,Gas,258,211,4,2.0,AWD,Auto,3175
+Audi TT Quattro convertibl,22,31,Gas,258,211,4,2.0,AWD,Auto,3340
+Audi TTS Quattro 2d,22,31,Gas,258,265,4,2.0,AWD,Auto,3263
+Audi TTS Quattro convertibl,22,31,Gas,258,265,4,2.0,AWD,Auto,3439
+BMW M5 RWD 4dr,14,20,Gas,502,560,8,4.4,RWD,Auto,4387
+BMW M6 Gran Coupe RWD 4dr,14,20,Gas,502,560,8,4.4,RWD,Auto,4430
+BMW M6 RWD 2dr,14,20,Gas,502,560,8,4.4,RWD,Auto,4255
+BMW M6 RWD convertible,14,20,Gas,502,560,8,4.4,RWD,Auto,4508
+BMW Z4 sDrive28i convertibl,22,34,Gas,260,240,4,2.0,RWD,Manual,3263
+BMW Z4 sDrive35i convertibl,19,26,Gas,300,300,6,3.0,RWD,Manual,3494
+BMW Z4 sDrive35is convertible,17,24,Gas,332,335,6,3.0,RWD,Auto,3549
+Chevrolet Camaro LS 2dr w/1L,17,28,Gas,278,323,6,3.6,RWD,Manual,3719
+Chevrolet Camaro LS 2dr w/2L,19,30,Gas,278,323,6,3.6,RWD,Auto,3702
+Chevrolet Camaro LT 2dr w/1L,17,28,Gas,278,323,6,3.6,RWD,Manual,3738
+Chevrolet Camaro LT 2dr w/2L,17,28,Gas,278,323,6,3.6,RWD,Manual,3802
+Chevrolet Camaro LT convertible w/1L,17,28,Gas,278,323,6,3.6,RWD,Manual,4014
+Chevrolet Camaro LT convertible w/2L,17,28,Gas,278,323,6,3.6,RWD,Manual,4078
+Chevrolet Camaro SS 2dr w/1S,16,24,Gas,420,426,8,6.2,RWD,Manual,3908
+Chevrolet Camaro SS 2dr w/2S,16,24,Gas,420,426,8,6.2,RWD,Manual,3935
+Chevrolet Camaro SS convertible w/1S,16,24,Gas,420,426,8,6.2,RWD,Manual,4172
+Chevrolet Camaro SS convertible w/2S,16,24,Gas,420,426,8,6.2,RWD,Manual,4374
+Chevrolet Camaro ZL1 2d,14,19,Gas,556,580,8,6.2,RWD,Manual,4120
+Chevrolet Camaro ZL1 convertibl,14,19,Gas,556,580,8,6.2,RWD,Manual,4197
+Chevrolet Corvette Stingray 2dr w/1L,17,29,Gas,450,450,8,6.2,RWD,Manual,3298
+Chevrolet Corvette Stingray Z51 2dr w/1L,17,29,Gas,450,450,8,6.2,RWD,Manual,3298
+Dodge Challenger R/T 2d,15,23,Gas,410,375,8,5.7,RWD,Manual,4082
+Dodge Challenger R/T Classic 2d,15,23,Gas,410,375,8,5.7,RWD,Manual,4082
+Dodge Challenger R/T Plus 2d,15,23,Gas,410,375,8,5.7,RWD,Manual,4082
+Dodge Challenger Rallye Redline 2dr,18,27,Flexible Fuel,268,305,6,3.6,RWD,Auto,3834
+Dodge Challenger SRT8 2d,14,23,Gas,470,470,8,6.4,RWD,Manual,4160
+Dodge Challenger SRT8 Core 2d,14,23,Gas,470,470,8,6.4,RWD,Manual,4160
+Dodge Challenger SXT 2dr,18,27,Flexible Fuel,268,305,6,3.6,RWD,Auto,3834
+Dodge Challenger SXT Plus 2dr,18,27,Flexible Fuel,268,305,6,3.6,RWD,Auto,3834
+Ford Mustang 2d,19,29,Gas,280,305,6,3.7,RWD,Manual,3501
+Ford Mustang convertibl,19,29,Gas,280,305,6,3.7,RWD,Manual,3630
+Ford Mustang GT 2d,15,26,Gas,390,420,8,5.0,RWD,Manual,3618
+Ford Mustang GT convertibl,15,26,Gas,390,420,8,5.0,RWD,Manual,3735
+Ford Mustang GT Premium 2d,15,26,Gas,390,420,8,5.0,RWD,Manual,3618
+Ford Mustang GT Premium convertibl,15,26,Gas,390,420,8,5.0,RWD,Manual,3735
+Ford Mustang Premium 2d,19,29,Gas,280,305,6,3.7,RWD,Manual,3501
+Ford Mustang Premium convertibl,19,29,Gas,280,305,6,3.7,RWD,Manual,3630
+Ford Mustang Shelby GT500 2d,15,24,Gas,631,662,8,5.8,RWD,Manual,3845
+Ford Mustang Shelby GT500 convertibl,15,24,Gas,631,662,8,5.8,RWD,Manual,3892
+Jaguar F-Type convertible,20,28,Gas,332,340,6,3.0,RWD,Auto,3521
+Jaguar F-Type S convertible,19,27,Gas,339,380,6,3.0,RWD,Auto,3558
+Jaguar F-Type V8 S convertible,16,23,Gas,460,495,8,5.0,RWD,Auto,3671
+Jaguar XK 2dr,16,24,Gas,380,385,8,5.0,RWD,Auto,3770
+Jaguar XK convertible,16,22,Gas,380,385,8,5.0,RWD,Auto,3924
+Jaguar XK Touring 2dr,16,24,Gas,380,385,8,5.0,RWD,Auto,3770
+Jaguar XK Touring convertible,16,22,Gas,380,385,8,5.0,RWD,Auto,3924
+Jaguar XKR 2dr,15,22,Gas,461,510,8,5.0,RWD,Auto,3968
+Jaguar XKR convertible,15,22,Gas,461,510,8,5.0,RWD,Auto,4079
+Jaguar XKR-S 2dr,15,22,Gas,461,510,8,5.0,RWD,Auto,3968
+Jaguar XKR-S convertible,15,22,Gas,461,510,8,5.0,RWD,Auto,4079
+Jaguar XKR-S GT 2dr (Late Availability,15,22,Gas,502,550,8,5.0,RWD,Auto,3968
+Mazda Miata MX-5 Club Hard Top convertibl,21,28,Gas,140,158,4,2.0,RWD,Auto,2619
+Mazda Miata MX-5 Club Hard Top convertibl,21,28,Gas,140,167,4,2.0,RWD,Manual,2593
+Mazda Miata MX-5 Club Soft Top convertibl,21,28,Gas,140,158,4,2.0,RWD,Auto,2542
+Mazda Miata MX-5 Club Soft Top convertibl,21,28,Gas,140,167,4,2.0,RWD,Manual,2480
+Mazda Miata MX-5 Grand Touring Hard Top convertibl,21,28,Gas,140,158,4,2.0,RWD,Auto,2619
+Mazda Miata MX-5 Grand Touring Soft Top convertibl,21,28,Gas,140,158,4,2.0,RWD,Auto,2542
+Mazda Miata MX-5 Sport convertible,21,28,Gas,140,158,4,2.0,RWD,Auto,2542
+Mercedes-Benz SL550 convertible,18,25,Gas,516,429,8,4.6,RWD,Auto,4001
+Mercedes-Benz SL63 AMG convertible,16,25,Gas,590,530,8,5.5,RWD,Auto,4068
+Mercedes-Benz SL65 AMG convertible,14,21,Gas,738,621,12,6.0,RWD,Auto,4299
+Mercedes-Benz SLK250 convertibl,22,32,Gas,229,201,4,1.8,RWD,Manual,3241
+Mercedes-Benz SLK350 convertible,21,29,Gas,273,302,6,3.5,RWD,Auto,3417
+Mercedes-Benz SLK55 AMG convertible,19,28,Gas,398,415,8,5.5,RWD,Auto,3583
+Mercedes-Benz SLS AMG Black Series 2d,13,17,Gas,468,622,8,6.3,RWD,Auto,3616
+Mercedes-Benz SLS AMG GT 2d,13,19,Gas,479,583,8,6.3,RWD,Auto,3726
+Mercedes-Benz SLS AMG GT convertibl,13,19,Gas,479,583,8,6.3,RWD,Auto,3792
+Mitsubishi Lancer Evolution GSR AWD 4d,17,23,Gas,300,291,4,2.0,AWD,Manual,3527
+Mitsubishi Lancer Evolution MR AWD 4dr,17,22,Gas,300,291,4,2.0,AWD,Auto,3527
+Nissan 370Z 2dr,19,26,Gas,270,332,6,3.7,RWD,Auto,3309
+Nissan 370Z 2d,18,26,Gas,270,332,6,3.7,RWD,Manual,3272
+Nissan 370Z convertible,18,25,Gas,270,332,6,3.7,RWD,Auto,3470
+Nissan 370Z NISMO 2d,18,26,Gas,276,350,6,3.7,RWD,Manual,3340
+Nissan 370Z Touring 2dr,19,26,Gas,270,332,6,3.7,RWD,Auto,3353
+Nissan 370Z Touring 2d,18,26,Gas,270,332,6,3.7,RWD,Manual,3318
+Nissan 370Z Touring convertible,18,25,Gas,270,332,6,3.7,RWD,Auto,3510
+Nissan 370Z Touring convertibl,17,25,Gas,270,332,6,3.7,RWD,Manual,3488
+Nissan GT-R Black Edition 2dr,16,23,Gas,463,545,6,3.8,AWD,Auto,3818
+Nissan GT-R Premium 2dr,16,23,Gas,463,545,6,3.8,AWD,Auto,3829
+Nissan GT-R Track Edition 2dr (Limited Edition,16,23,Gas,463,545,6,3.8,AWD,Auto,3796
+Porsche 911 50th Anniversary Edition RWD 2d,19,27,Gas,325,430,6,3.8,RWD,Manual,3109
+Porsche 911 Carrera 4 AWD 2d,19,27,Gas,287,350,6,3.4,AWD,Manual,3153
+Porsche 911 Carrera 4 AWD convertibl,19,26,Gas,287,350,6,3.4,AWD,Manual,3307
+Porsche 911 Carrera 4S AWD 2d,18,26,Gas,325,400,6,3.8,AWD,Manual,3186
+Porsche 911 Carrera 4S AWD convertibl,18,26,Gas,325,400,6,3.8,AWD,Manual,3340
+Porsche 911 Carrera RWD 2d,19,27,Gas,287,350,6,3.4,RWD,Manual,3042
+Porsche 911 Carrera RWD convertibl,19,27,Gas,287,350,6,3.4,RWD,Manual,3197
+Porsche 911 Carrera S RWD 2d,19,27,Gas,325,400,6,3.8,RWD,Manual,3075
+Porsche 911 Carrera S RWD convertibl,19,27,Gas,325,400,6,3.8,RWD,Manual,3230
+Porsche 911 GT3 RWD 2dr,15,20,Gas,325,475,6,3.8,RWD,Auto,3153
+Porsche 911 Turbo AWD 2dr,17,24,Gas,487,520,6,3.8,AWD,Auto,3516
+Porsche 911 Turbo S AWD 2dr,17,24,Gas,516,560,6,3.8,AWD,Auto,3538
+Porsche Boxster convertibl,20,30,Gas,206,265,6,2.7,RWD,Manual,2888
+Porsche Boxster S convertibl,20,28,Gas,266,315,6,3.4,RWD,Manual,2910
+Porsche Cayman 2d,20,30,Gas,213,275,6,2.7,RWD,Manual,2888
+Porsche Cayman S 2d,20,28,Gas,273,325,6,3.4,RWD,Manual,2910
+Scion FR-S 2dr,25,34,Gas,151,200,4,2.0,RWD,Auto,2806
+Scion FR-S 2d,22,30,Gas,151,200,4,2.0,RWD,Manual,2758
+SRT Viper 2d,12,19,Gas,600,640,10,8.4,RWD,Manual,3200
+SRT Viper GTS 2d,12,19,Gas,600,640,10,8.4,RWD,Manual,3277
+Subaru BRZ Limited 2dr,25,34,Gas,151,200,4,2.0,RWD,Auto,2822
+Subaru BRZ Limited 2d,22,30,Gas,151,200,4,2.0,RWD,Manual,2776
+Subaru BRZ Premium 2d,22,30,Gas,151,200,4,2.0,RWD,Manual,2762
+Subaru Impreza WRX STI AWD 4d,17,23,Gas,290,305,4,2.5,AWD,Manual,3384
+Subaru Impreza WRX STI AWD 4dr hatc,17,23,Gas,290,305,4,2.5,AWD,Manual,3373
+Subaru Impreza WRX STI Limited AWD 4d,17,23,Gas,290,305,4,2.5,AWD,Manual,3417
+Acura MDX,20,28,Gas,267,290,6,3.5,FWD,Auto,4025
+Acura MDX AWD,18,27,Gas,267,290,6,3.5,AWD,Auto,4255
+Acura MDX AWD w/Advance & Entertainment Pk,18,27,Gas,267,290,6,3.5,AWD,Auto,4332
+Acura MDX AWD w/Technology & Entertainment Pk,18,27,Gas,267,290,6,3.5,AWD,Auto,4294
+Acura MDX AWD w/Technology Pk,18,27,Gas,267,290,6,3.5,AWD,Auto,4270
+Acura MDX w/Advance & Entertainment Pk,20,28,Gas,267,290,6,3.5,FWD,Auto,4103
+Acura MDX w/Technology & Entertainment Pk,20,28,Gas,267,290,6,3.5,FWD,Auto,4063
+Acura MDX w/Technology Pk,20,28,Gas,267,290,6,3.5,FWD,Auto,4041
+Audi Q7 3.0T Premium Plus Quattro AW,16,22,Gas,295,280,6,3.0,AWD,Auto,5292
+Audi Q7 3.0T Premium Quattro AW,16,22,Gas,295,280,6,3.0,AWD,Auto,5292
+Audi Q7 3.0T S line Prestige Quattro AW,16,22,Gas,325,333,6,3.0,AWD,Auto,5412
+Audi Q7 TDI Premium Plus Quattro AW,19,28,Diesel,406,240,6,3.0,AWD,Auto,5412
+Audi Q7 TDI Premium Quattro AW,19,28,Diesel,406,240,6,3.0,AWD,Auto,5412
+Audi Q7 TDI Prestige Quattro AW,19,28,Diesel,406,240,6,3.0,AWD,Auto,5412
+BMW X6 M xDrive AW,13,17,Gas,500,555,8,4.4,AWD,Auto,5324
+BMW X6 xDrive35i AWD,17,24,Gas,300,300,6,3.0,AWD,Auto,4784
+BMW X6 xDrive50i AWD,14,21,Gas,450,400,8,4.4,AWD,Auto,5225
+Buick Enclave Convenience,17,24,Gas,270,288,6,3.6,FWD,Auto,4724
+Buick Enclave Convenience AWD,16,22,Gas,270,288,6,3.6,AWD,Auto,4922
+Buick Enclave Leather,17,24,Gas,270,288,6,3.6,FWD,Auto,4724
+Buick Enclave Leather AWD,16,22,Gas,270,288,6,3.6,AWD,Auto,4922
+Buick Enclave Premium,17,24,Gas,270,288,6,3.6,FWD,Auto,4724
+Buick Enclave Premium AWD,16,22,Gas,270,288,6,3.6,AWD,Auto,4922
+Chevrolet Traverse LS,17,24,Gas,266,281,6,3.6,FWD,Auto,4647
+Chevrolet Traverse LS AWD,16,23,Gas,266,281,6,3.6,AWD,Auto,4841
+Chevrolet Traverse LT AWD w/1L,16,23,Gas,266,281,6,3.6,AWD,Auto,4841
+Chevrolet Traverse LT AWD w/2L,16,23,Gas,266,281,6,3.6,AWD,Auto,4841
+Chevrolet Traverse LT w/1L,17,24,Gas,266,281,6,3.6,FWD,Auto,4647
+Chevrolet Traverse LT w/2L,17,24,Gas,266,281,6,3.6,FWD,Auto,4647
+Chevrolet Traverse LTZ,17,24,Gas,270,288,6,3.6,FWD,Auto,4647
+Chevrolet Traverse LTZ AWD,16,23,Gas,270,288,6,3.6,AWD,Auto,4841
+Dodge Durango Citadel,18,25,Gas,390,360,8,5.7,FWD,Auto,4905
+Dodge Durango Citadel AW,17,24,Gas,390,360,8,5.7,AWD,Auto,5097
+Dodge Durango Limited,18,25,Gas,390,360,8,5.7,FWD,Auto,4838
+Dodge Durango Limited AW,17,24,Gas,390,360,8,5.7,AWD,Auto,4987
+Dodge Durango R/T,14,23,Gas,390,360,8,5.7,FWD,Auto,5133
+Dodge Durango R/T AWD,14,22,Gas,390,360,8,5.7,AWD,Auto,5331
+Dodge Durango SXT,18,25,Flexible Fuel,260,290,6,3.6,FWD,Auto,4756
+Dodge Durango SXT AW,17,24,Flexible Fuel,260,290,6,3.6,AWD,Auto,4913
+Dodge Journey AV,19,26,Gas,166,173,4,2.4,FWD,Auto,3818
+Dodge Journey Limited,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4054
+Dodge Journey Limited AWD,16,24,Gas,260,283,6,3.6,AWD,Auto,4238
+Dodge Journey R/T,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4054
+Dodge Journey R/T AWD,16,24,Gas,260,283,6,3.6,AWD,Auto,4238
+Dodge Journey SE,19,26,Gas,166,173,4,2.4,FWD,Auto,3818
+Dodge Journey SXT,19,26,Gas,260,283,6,3.6,FWD,Auto,3818
+Ford Explorer,17,24,Gas,270,290,6,3.5,FWD,Auto,4534
+Ford Explorer 4WD,16,22,Gas,255,290,6,3.5,4WD,Auto,4697
+Ford Explorer Limited,17,24,Gas,270,290,6,3.5,FWD,Auto,4534
+Ford Explorer Limited 4WD,16,22,Gas,255,290,6,3.5,4WD,Auto,4697
+Ford Explorer Sport 4WD,16,22,Gas,350,365,6,3.5,4WD,Auto,4697
+Ford Explorer XLT,17,24,Gas,270,290,6,3.5,FWD,Auto,4534
+Ford Explorer XLT 4WD,16,22,Gas,255,290,6,3.5,4WD,Auto,4697
+Ford Flex EcoBoost Limited AW,16,23,Gas,350,365,6,3.5,AWD,Auto,4828
+Ford Flex Limited,18,25,Gas,254,287,6,3.5,FWD,Auto,4439
+Ford Flex Limited AWD,17,23,Gas,254,287,6,3.5,AWD,Auto,4637
+Ford Flex SE,18,25,Gas,254,287,6,3.5,FWD,Auto,4439
+Ford Flex SEL,18,25,Gas,254,287,6,3.5,FWD,Auto,4439
+GMC Acadia Denali,17,24,Gas,270,288,6,3.6,FWD,Auto,4656
+GMC Acadia Denali AWD,16,23,Gas,270,288,6,3.6,AWD,Auto,4850
+GMC Acadia SLE-1,17,24,Gas,270,288,6,3.6,FWD,Auto,4656
+GMC Acadia SLE-1 AWD,16,23,Gas,270,288,6,3.6,AWD,Auto,4850
+GMC Acadia SLE-2,17,24,Gas,270,288,6,3.6,FWD,Auto,4656
+GMC Acadia SLE-2 AWD,16,23,Gas,270,288,6,3.6,AWD,Auto,4850
+GMC Acadia SLT-1,17,24,Gas,270,288,6,3.6,FWD,Auto,4656
+GMC Acadia SLT-1 AWD,16,23,Gas,270,288,6,3.6,AWD,Auto,4850
+Honda Crosstour EX,22,31,Gas,162,192,4,2.4,FWD,Auto,3703
+Honda Crosstour EX-L,22,31,Gas,162,192,4,2.4,FWD,Auto,3730
+Honda Crosstour EX-L 4WD,19,28,Gas,252,278,6,3.5,4WD,Auto,3934
+Honda Crosstour EX-L 4WD w/Navigatio,19,28,Gas,252,278,6,3.5,4WD,Auto,3934
+Honda Crosstour EX-L w/Navigatio,22,31,Gas,162,192,4,2.4,FWD,Auto,3730
+Honda Crosstour V6 EX,20,30,Gas,252,278,6,3.5,FWD,Auto,3917
+Honda Crosstour V6 EX-L,20,30,Gas,252,278,6,3.5,FWD,Auto,3928
+Honda Crosstour V6 EX-L w/Navigatio,20,30,Gas,252,278,6,3.5,FWD,Auto,3928
+Hyundai Santa Fe GLS,18,25,Gas,252,290,6,3.3,FWD,Auto,3933
+Hyundai Santa Fe GLS AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,4085
+Hyundai Santa Fe Limited,18,25,Gas,252,290,6,3.3,FWD,Auto,3904
+Hyundai Santa Fe Limited AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,4297
+Hyundai Santa Fe Limited AWD w/Saddle Interior Colo,18,24,Gas,252,290,6,3.3,AWD,Auto,4297
+Hyundai Santa Fe Limited w/Saddle Interior Colo,18,25,Gas,252,290,6,3.3,FWD,Auto,3904
+Infiniti QX60,20,26,Gas,248,265,6,3.5,FWD,Auto,4280
+Infiniti QX60 AWD,19,25,Gas,248,265,6,3.5,AWD,Auto,4419
+Infiniti QX60 Hybri,25,28,Hybrid,243,250,4,2.5,FWD,Auto,4485
+Infiniti QX60 Hybrid AWD,26,28,Hybrid,243,250,4,2.5,AWD,Auto,4485
+Land Rover Range Rover 4W,17,23,Gas,332,340,6,3.0,4WD,Auto,4918
+Land Rover Range Rover Autobiography 4WD,13,19,Gas,461,510,8,5.0,4WD,Auto,5137
+Land Rover Range Rover HSE 4WD,17,23,Gas,332,340,6,3.0,4WD,Auto,4918
+Land Rover Range Rover Supercharged 4WD,13,19,Gas,461,510,8,5.0,4WD,Auto,5137
+Lincoln MKT,17,25,Gas,278,303,6,3.7,FWD,Auto,4702
+Lincoln MKT EcoBoost AWD,16,23,Gas,350,365,6,3.5,AWD,Auto,4942
+Mazda CX-9 Grand Touring,17,24,Gas,270,273,6,3.7,FWD,Auto,4323
+Mazda CX-9 Grand Touring AWD,16,22,Gas,270,273,6,3.7,AWD,Auto,4559
+Mazda CX-9 Sport,17,24,Gas,270,273,6,3.7,FWD,Auto,4323
+Mazda CX-9 Sport AWD,16,22,Gas,270,273,6,3.7,AWD,Auto,4559
+Mazda CX-9 Touring,17,24,Gas,270,273,6,3.7,FWD,Auto,4323
+Mazda CX-9 Touring AWD,16,22,Gas,270,273,6,3.7,AWD,Auto,4559
+Mercedes-Benz GL350 BlueTEC 4MATIC AWD,19,26,Diesel,455,240,6,3.0,AWD,Auto,5467
+Mercedes-Benz GL450 4MATIC AWD,14,19,Gas,406,362,8,4.6,AWD,Auto,5401
+Mercedes-Benz GL550 4MATIC AWD,13,18,Gas,516,429,8,4.6,AWD,Auto,5578
+Mercedes-Benz GL63 4MATIC AWD,13,17,Gas,560,550,8,5.5,AWD,Auto,5687
+Nissan Pathfinder Platinum,20,26,Gas,240,260,6,3.5,FWD,Auto,4345
+Nissan Pathfinder Platinum 4WD,19,25,Gas,240,260,6,3.5,4WD,Auto,4486
+Nissan Pathfinder Platinum Hybri,25,28,Hybrid,243,230,4,2.5,FWD,Auto,4573
+Nissan Pathfinder Platinum Hybrid 4WD,25,27,Hybrid,243,230,4,2.5,4WD,Auto,4714
+Nissan Pathfinder S,20,26,Gas,240,260,6,3.5,FWD,Auto,4168
+Nissan Pathfinder S 4WD,19,25,Gas,240,260,6,3.5,4WD,Auto,4309
+Nissan Pathfinder SL,20,26,Gas,240,260,6,3.5,FWD,Auto,4223
+Nissan Pathfinder SL 4WD,19,25,Gas,240,260,6,3.5,4WD,Auto,4364
+Nissan Pathfinder SL Hybri,25,28,Hybrid,243,230,4,2.5,FWD,Auto,4451
+Nissan Pathfinder SL Hybrid 4WD,25,27,Hybrid,243,230,4,2.5,4WD,Auto,4592
+Nissan Pathfinder SV,20,26,Gas,240,260,6,3.5,FWD,Auto,4189
+Nissan Pathfinder SV 4WD,19,25,Gas,240,260,6,3.5,4WD,Auto,4330
+Nissan Pathfinder SV Hybri,25,28,Hybrid,243,230,4,2.5,FWD,Auto,4417
+Nissan Pathfinder SV Hybrid 4WD,25,27,Hybrid,243,230,4,2.5,4WD,Auto,4558
+Acura RDX,20,28,Gas,251,273,6,3.5,FWD,Auto,3717
+Acura RDX AWD,19,27,Gas,251,273,6,3.5,AWD,Auto,3838
+Acura RDX AWD w/Technology Pk,19,27,Gas,251,273,6,3.5,AWD,Auto,3852
+Acura RDX w/Technology Pk,20,28,Gas,251,273,6,3.5,FWD,Auto,3732
+Audi Q5 2.0T Premium Plus Quattro AW,20,28,Gas,258,220,4,2.0,AWD,Auto,4079
+Audi Q5 2.0T Premium Quattro AW,20,28,Gas,258,220,4,2.0,AWD,Auto,4079
+Audi Q5 Hybrid Prestige Quattro AW,24,30,Hybrid,350,245,4,2.0,AWD,Auto,4431
+Audi Q5 TDI Premium Plus Quattro AW,24,31,Diesel,428,240,6,3.0,AWD,Auto,4475
+Audi Q5 TDI Prestige Quattro AW,24,31,Diesel,428,240,6,3.0,AWD,Auto,4475
+Audi SQ5 Premium Plus Quattro AW,16,23,Gas,347,354,6,3.0,AWD,Auto,4409
+Audi SQ5 Prestige Quattro AW,16,23,Gas,347,354,6,3.0,AWD,Auto,4409
+BMW X1 sDrive28i RWD,23,34,Gas,260,240,4,2.0,RWD,Auto,3527
+BMW X1 xDrive28i AWD,22,33,Gas,260,240,4,2.0,AWD,Auto,3726
+BMW X1 xDrive35i AWD,18,27,Gas,300,300,6,3.0,AWD,Auto,3891
+BMW X3 xDrive28i AWD,21,28,Gas,260,240,4,2.0,AWD,Auto,4068
+BMW X3 xDrive35i AWD,19,26,Gas,300,300,6,3.0,AWD,Auto,4222
+Buick Encore,25,33,Gas,148,138,4,1.4,FWD,Auto,3190
+Buick Encore AWD,23,30,Gas,148,138,4,1.4,AWD,Auto,3309
+Buick Encore Convenience,25,33,Gas,148,138,4,1.4,FWD,Auto,3190
+Buick Encore Convenience AWD,23,30,Gas,148,138,4,1.4,AWD,Auto,3309
+Buick Encore Leather,25,33,Gas,148,138,4,1.4,FWD,Auto,3190
+Buick Encore Leather AWD,23,30,Gas,148,138,4,1.4,AWD,Auto,3309
+Buick Encore Premium,25,33,Gas,148,138,4,1.4,FWD,Auto,3190
+Buick Encore Premium AWD,23,30,Gas,148,138,4,1.4,AWD,Auto,3309
+Ford Escape S,22,31,Gas,170,168,4,2.5,FWD,Auto,3515
+Ford Escape SE,23,32,Gas,270,240,4,2.0,FWD,Auto,3502
+Ford Escape SE 4WD,22,30,Gas,270,240,4,2.0,4WD,Auto,3645
+Ford Escape Titanium,23,32,Gas,270,240,4,2.0,FWD,Auto,3502
+Ford Escape Titanium 4WD,22,30,Gas,270,240,4,2.0,4WD,Auto,3645
+Honda CR-V EX,23,31,Gas,163,185,4,2.4,FWD,Auto,3365
+Honda CR-V EX AWD,22,30,Gas,163,185,4,2.4,AWD,Auto,3490
+Honda CR-V EX-L,23,31,Gas,163,185,4,2.4,FWD,Auto,3408
+Honda CR-V EX-L AWD,22,30,Gas,163,185,4,2.4,AWD,Auto,3529
+Honda CR-V EX-L AWD w/Navigatio,22,30,Gas,163,185,4,2.4,AWD,Auto,3545
+Honda CR-V EX-L AWD w/Rear Seat Entertainmen,22,30,Gas,163,185,4,2.4,AWD,Auto,3545
+Honda CR-V EX-L w/Navigatio,23,31,Gas,163,185,4,2.4,FWD,Auto,3424
+Honda CR-V EX-L w/Rear Seat Entertainmen,23,31,Gas,163,185,4,2.4,FWD,Auto,3424
+Honda CR-V LX,23,31,Gas,163,185,4,2.4,FWD,Auto,3305
+Honda CR-V LX AWD,22,30,Gas,163,185,4,2.4,AWD,Auto,3426
+Hyundai Tucson GLS,23,29,Gas,151,164,4,2.0,FWD,Auto,3232
+Hyundai Tucson GLS AWD,21,25,Gas,151,164,4,2.0,AWD,Auto,3373
+Hyundai Tucson Limited,21,28,Gas,177,182,4,2.4,FWD,Auto,3294
+Hyundai Tucson Limited AWD,20,25,Gas,177,182,4,2.4,AWD,Auto,3439
+Hyundai Tucson Limited AWD (PZEV,20,25,Gas,176,180,4,2.4,AWD,Auto,3439
+Hyundai Tucson SE,21,28,Gas,177,182,4,2.4,FWD,Auto,3294
+Hyundai Tucson SE AWD,20,25,Gas,177,182,4,2.4,AWD,Auto,3439
+Hyundai Tucson SE AWD (PZEV,20,25,Gas,176,180,4,2.4,AWD,Auto,3439
+Jeep Compass Spor,23,30,Gas,165,172,4,2.4,FWD,Manual,3097
+Jeep Compass Sport 4W,23,28,Gas,165,172,4,2.4,4WD,Manual,3260
+Jeep Compass Sport Altitude Edition,22,27,Gas,141,158,4,2.0,FWD,Auto,3097
+Jeep Patriot Spor,23,30,Gas,165,172,4,2.4,FWD,Manual,3136
+Jeep Patriot Sport 4W,23,28,Gas,165,172,4,2.4,4WD,Manual,3293
+Jeep Patriot Sport Altitude Edition,22,27,Gas,141,158,4,2.0,FWD,Auto,3136
+Kia Sportage EX,21,28,Gas,177,182,4,2.4,FWD,Auto,3426
+Kia Sportage EX AWD,19,26,Gas,177,182,4,2.4,AWD,Auto,3571
+Kia Sportage LX,21,28,Gas,177,182,4,2.4,FWD,Auto,3426
+Kia Sportage LX AWD,19,26,Gas,177,182,4,2.4,AWD,Auto,3571
+Kia Sportage SX,20,26,Gas,269,260,4,2.0,FWD,Auto,3512
+Kia Sportage SX AWD,19,24,Gas,269,260,4,2.0,AWD,Auto,3664
+Land Rover LR,17,24,Gas,250,240,4,2.0,4WD,Auto,4080
+Land Rover Range Rover Evoque Dynamic 4WD 2d,21,30,Gas,250,240,4,2.0,4WD,Auto,3680
+Mazda CX-5 Grand Touring,25,32,Gas,185,184,4,2.5,FWD,Auto,3375
+Mazda CX-5 Grand Touring AWD,24,30,Gas,185,184,4,2.5,AWD,Auto,3532
+Mazda CX-5 Sport,26,32,Gas,150,155,4,2.0,FWD,Auto,3263
+Mazda CX-5 Spor,26,35,Gas,150,155,4,2.0,FWD,Manual,3194
+Mazda CX-5 Sport AWD,25,31,Gas,150,155,4,2.0,AWD,Auto,3415
+Mazda CX-5 Touring,25,32,Gas,185,184,4,2.5,FWD,Auto,3375
+Mazda CX-5 Touring AWD,24,30,Gas,185,184,4,2.5,AWD,Auto,3532
+Mercedes-Benz GLK 250 BlueTec 4Matic AW,24,33,Diesel,369,195,4,2.1,AWD,Auto,4409
+Mercedes-Benz GLK350 4MATIC AWD,19,25,Gas,273,302,6,3.5,AWD,Auto,4123
+Mercedes-Benz GLK350 RWD,19,26,Gas,273,302,6,3.5,RWD,Auto,4068
+Mitsubishi Outlander ES,25,31,Gas,162,166,4,2.4,FWD,Auto,3274
+Mitsubishi Outlander GT 4WD,20,28,Gas,214,224,6,3.0,4WD,Auto,3571
+Mitsubishi Outlander SE,25,31,Gas,162,166,4,2.4,FWD,Auto,3296
+Mitsubishi Outlander SE 4WD,24,29,Gas,162,166,4,2.4,4WD,Auto,3461
+Mitsubishi Outlander Sport ES,24,31,Gas,145,148,4,2.0,FWD,Auto,3087
+Mitsubishi Outlander Sport E,24,30,Gas,145,148,4,2.0,FWD,Manual,3021
+Mitsubishi Outlander Sport ES 4WD,24,29,Gas,145,148,4,2.0,4WD,Auto,3230
+Mitsubishi Outlander Sport SE,24,31,Gas,145,148,4,2.0,FWD,Auto,3120
+Mitsubishi Outlander Sport SE 4WD,24,29,Gas,145,148,4,2.0,4WD,Auto,3263
+Nissan Juke Nismo (Late Availability),25,31,Gas,184,197,4,1.6,FWD,Manual,2930
+Nissan Juke Nismo AWD (Late Availability,25,30,Gas,184,197,4,1.6,AWD,Auto,3168
+Nissan Juke S,27,32,Gas,177,188,4,1.6,FWD,Auto,2959
+Nissan Juke S AWD,25,30,Gas,177,188,4,1.6,AWD,Auto,3146
+Nissan Juke SL,27,32,Gas,177,188,4,1.6,FWD,Auto,3007
+Nissan Juke SL AWD,25,30,Gas,177,188,4,1.6,AWD,Auto,3208
+Nissan Juke SV,27,32,Gas,177,188,4,1.6,FWD,Auto,2981
+Nissan Juke SV,25,31,Gas,177,188,4,1.6,FWD,Manual,2912
+Nissan Juke SV AWD,25,30,Gas,177,188,4,1.6,AWD,Auto,3172
+Nissan Rogue S,26,33,Gas,175,170,4,2.5,FWD,Auto,3292
+Nissan Rogue S AWD,22,27,Gas,175,170,4,2.5,AWD,Auto,3446
+Nissan Rogue SL,26,33,Gas,175,170,4,2.5,FWD,Auto,3529
+Nissan Rogue SV,26,33,Gas,175,170,4,2.5,FWD,Auto,3327
+Nissan Rogue SV AWD,22,27,Gas,175,170,4,2.5,AWD,Auto,3479
+Subaru Forester 2.0XT Premium,23,28,Gas,258,250,4,2.0,AWD,Auto,3622
+Subaru Forester 2.0XT Touring,23,28,Gas,258,250,4,2.0,AWD,Auto,3622
+Subaru Forester 2.5i,24,32,Gas,174,170,4,2.5,AWD,Auto,3366
+Subaru Forester 2.5,22,29,Gas,174,170,4,2.5,AWD,Manual,3296
+Subaru Forester 2.5i Limited,24,32,Gas,174,170,4,2.5,AWD,Auto,3366
+Subaru Forester 2.5i Premium,24,32,Gas,174,170,4,2.5,AWD,Auto,3366
+Subaru Forester 2.5i Premiu,22,29,Gas,174,170,4,2.5,AWD,Manual,3296
+Subaru Forester 2.5i Touring,24,32,Gas,174,170,4,2.5,AWD,Auto,3366
+Subaru XV Crosstrek Limited AWD,25,33,Gas,145,148,4,2.0,AWD,Auto,3230
+Subaru XV Crosstrek Premium AWD,25,33,Gas,145,148,4,2.0,AWD,Auto,3208
+Subaru XV Crosstrek Premium AW,23,30,Gas,145,148,4,2.0,AWD,Manual,3098
+Toyota RAV4 L,24,31,Gas,172,176,4,2.5,FWD,Auto,3435
+Toyota RAV4 LE AW,22,29,Gas,172,176,4,2.5,AWD,Auto,3550
+Toyota RAV4 Limite,24,31,Gas,172,176,4,2.5,FWD,Auto,3500
+Toyota RAV4 Limited AW,22,29,Gas,172,176,4,2.5,AWD,Auto,3610
+Toyota RAV4 XL,24,31,Gas,172,176,4,2.5,FWD,Auto,3465
+Toyota RAV4 XLE AW,22,29,Gas,172,176,4,2.5,AWD,Auto,3585
+Volkswagen Tiguan R-Line,21,26,Gas,207,200,4,2.0,FWD,Auto,3404
+Volkswagen Tiguan R-Line 4Motion AWD,20,26,Gas,207,200,4,2.0,AWD,Auto,3591
+Volkswagen Tiguan ,18,26,Gas,207,200,4,2.0,FWD,Manual,3393
+Volkswagen Tiguan S 4Motion AWD,20,26,Gas,207,200,4,2.0,AWD,Auto,3591
+Volkswagen Tiguan SE,21,26,Gas,207,200,4,2.0,FWD,Auto,3404
+Volkswagen Tiguan SE 4Motion AWD,20,26,Gas,207,200,4,2.0,AWD,Auto,3591
+Volkswagen Tiguan SE 4Motion AWD w/Appearance Pk,20,26,Gas,207,200,4,2.0,AWD,Auto,3591
+Volkswagen Tiguan SE w/Appearance Pk,21,26,Gas,207,200,4,2.0,FWD,Auto,3404
+Volkswagen Tiguan SEL,21,26,Gas,207,200,4,2.0,FWD,Auto,3404
+Volkswagen Tiguan SEL 4Motion AWD,20,26,Gas,207,200,4,2.0,AWD,Auto,3591
+Volvo XC60 3.2,18,26,Gas,236,240,6,3.2,FWD,Auto,3958
+Volvo XC60 3.2 Platinum,18,26,Gas,236,240,6,3.2,FWD,Auto,4012
+Volvo XC60 3.2 Premier,18,26,Gas,236,240,6,3.2,FWD,Auto,4012
+Volvo XC60 3.2 Premier Plus,18,26,Gas,236,240,6,3.2,FWD,Auto,4012
+Volvo XC60 T6 AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4225
+Volvo XC60 T6 Platinum AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4225
+Volvo XC60 T6 Premier Plus AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4225
+Volvo XC60 T6 R-Design AWD,17,24,Gas,354,325,6,3.0,AWD,Auto,4225
+Volvo XC60 T6 R-Design Platinum AWD,17,24,Gas,354,325,6,3.0,AWD,Auto,4225
+Volvo XC60 T6 R-Design Premier Plus AWD,17,24,Gas,354,325,6,3.0,AWD,Auto,4225
+Acura RLX 4dr w/Advance Pk,20,31,Gas,272,310,6,3.5,FWD,Auto,3997
+Acura RLX 4dr w/Krell Audio Pk,20,31,Gas,272,310,6,3.5,FWD,Auto,3981
+Acura RLX 4dr w/Navigatio,20,31,Gas,272,310,6,3.5,FWD,Auto,3981
+Acura RLX 4dr w/Technology Pk,20,31,Gas,272,310,6,3.5,FWD,Auto,3955
+Audi A5 Premium Plus Quattro AWD convertibl,20,29,Gas,258,220,4,2.0,AWD,Auto,4045
+Audi A5 Prestige convertible,24,32,Gas,258,220,4,2.0,FWD,Auto,3880
+Audi A5 Prestige Quattro AWD 2d,20,29,Gas,258,220,4,2.0,AWD,Auto,3682
+Audi A5 Prestige Quattro AWD convertibl,20,29,Gas,258,220,4,2.0,AWD,Auto,4045
+Audi A6 2.0T Premium Plus Quattro AWD 4d,20,29,Gas,258,220,4,2.0,AWD,Auto,3957
+Audi A6 3.0T Premium Plus Quattro AWD 4d,18,27,Gas,325,310,6,3.0,AWD,Auto,4101
+Audi A6 3.0T Prestige Quattro AWD 4d,18,27,Gas,325,310,6,3.0,AWD,Auto,4101
+Audi A7 Premium Plus Quattro 4dr hatc,18,28,Gas,325,310,6,3.0,AWD,Auto,4210
+Audi A7 Prestige Quattro 4dr hatc,18,28,Gas,325,310,6,3.0,AWD,Auto,4210
+Audi A7 TDI Premium Plus Quattro AWD 4dr hatc,24,38,Diesel,428,240,6,3.0,AWD,Auto,4266
+Audi A7 TDI Prestige Quattro AWD 4dr hatc,24,38,Diesel,428,240,6,3.0,AWD,Auto,4266
+Audi A8 3.0T Quattro AWD 4dr,18,28,Gas,325,333,6,3.0,AWD,Auto,4365
+Audi A8 4.0T Quattro AWD 4dr,17,28,Gas,444,420,8,4.0,AWD,Auto,4508
+Audi A8 L 3.0T Quattro AWD 4d,18,28,Gas,325,333,6,3.0,AWD,Auto,4464
+Audi A8 L 4.0T Quattro AWD 4d,16,26,Gas,444,420,8,4.0,AWD,Auto,4619
+Audi A8 L TDI Quattro AWD 4d,24,36,Diesel,406,240,6,3.0,AWD,Auto,4564
+Audi A8 L W12 Quattro AWD 4d,13,21,Gas,463,500,12,6.3,AWD,Auto,4784
+Audi RS 5 Quattro AWD 2d,16,23,Gas,316,450,8,4.2,AWD,Auto,4009
+Audi RS 5 Quattro AWD convertibl,16,22,Gas,316,450,8,4.2,AWD,Auto,4420
+Audi RS 7 Prestige Quattro AWD 4dr hatc,16,27,Gas,516,560,8,4.0,AWD,Auto,4475
+Audi S4 Premium Plus Quattro AWD 4d,18,28,Gas,325,333,6,3.0,AWD,Auto,3935
+Audi S4 Prestige Quattro AWD 4d,18,28,Gas,325,333,6,3.0,AWD,Auto,3935
+Audi S4 Prestige Quattro AWD 4d,17,26,Gas,325,333,6,3.0,AWD,Manual,3858
+Audi S5 Premium Plus Quattro 2d,18,28,Gas,325,333,6,3.0,AWD,Auto,4045
+Audi S5 Premium Plus Quattro 2d,17,26,Gas,325,333,6,3.0,AWD,Manual,3858
+Audi S5 Premium Plus Quattro convertibl,18,26,Gas,325,333,6,3.0,AWD,Auto,4310
+Audi S5 Prestige Quattro 2d,18,28,Gas,325,333,6,3.0,AWD,Auto,4045
+Audi S5 Prestige Quattro 2d,17,26,Gas,325,333,6,3.0,AWD,Manual,3858
+Audi S5 Prestige Quattro convertibl,18,26,Gas,325,333,6,3.0,AWD,Auto,4310
+Audi S6 Prestige Quattro 4d,17,27,Gas,406,420,8,4.0,AWD,Auto,4398
+Audi S7 Prestige Quattro AWD 4dr hatc,17,27,Gas,406,420,8,4.0,AWD,Auto,4508
+Audi S8 Quattro 4d,15,26,Gas,481,520,8,4.0,AWD,Auto,4641
+BMW 528i RWD 4dr,23,34,Gas,258,241,4,2.0,RWD,Auto,3814
+BMW 528i xDrive AWD 4dr,22,33,Gas,258,241,4,2.0,AWD,Auto,4001
+BMW 535i RWD 4dr,20,30,Gas,300,300,6,3.0,RWD,Auto,4068
+BMW 535i xDrive AWD 4dr,20,29,Gas,300,300,6,3.0,AWD,Auto,4233
+BMW 550i RWD 4dr,17,25,Gas,479,443,8,4.4,RWD,Auto,4365
+BMW 550i xDrive AWD 4dr,16,24,Gas,479,443,8,4.4,AWD,Auto,4519
+BMW 640i Gran Coupe RWD 4dr,20,30,Gas,330,315,6,3.0,RWD,Auto,4191
+BMW 640i Gran Coupe xDrive AWD 4dr,20,29,Gas,330,315,6,3.0,AWD,Auto,4365
+BMW 640i RWD 2dr,22,33,Gas,330,315,6,3.0,RWD,Auto,4001
+BMW 640i RWD convertible,20,30,Gas,330,315,6,3.0,RWD,Auto,4286
+BMW 640i xDrive AWD 2dr,20,29,Gas,330,315,6,3.0,AWD,Auto,4190
+BMW 640i xDrive AWD convertible,20,29,Gas,330,315,6,3.0,AWD,Auto,4455
+BMW 650i Gran Coupe RWD 4dr,17,25,Gas,480,445,8,4.4,RWD,Auto,4430
+BMW 650i Gran Coupe xDrive AWD 4dr,16,24,Gas,480,445,8,4.4,AWD,Auto,4605
+BMW 650i RWD 2dr,17,25,Gas,480,445,8,4.4,RWD,Auto,4275
+BMW 650i RWD convertible,17,25,Gas,480,445,8,4.4,RWD,Auto,4520
+BMW 650i xDrive AWD 2dr,16,24,Gas,480,445,8,4.4,AWD,Auto,4410
+BMW 650i xDrive AWD convertible,16,24,Gas,480,445,8,4.4,AWD,Auto,4650
+BMW 740i RWD 4dr,19,29,Gas,330,315,6,3.0,RWD,Auto,4310
+BMW 740Li RWD 4dr,19,29,Gas,330,315,6,3.0,RWD,Auto,4350
+BMW 740Li xDrive AWD 4dr,19,28,Gas,330,315,6,3.0,AWD,Auto,4525
+BMW 750i RWD 4dr,17,25,Gas,480,445,8,4.4,RWD,Auto,4575
+BMW 750i xDrive AWD 4dr,16,24,Gas,480,445,8,4.4,AWD,Auto,4745
+BMW 750Li RWD 4dr,16,25,Gas,480,445,8,4.4,RWD,Auto,4660
+BMW 750Li xDrive AWD 4dr,16,24,Gas,480,445,8,4.4,AWD,Auto,4800
+BMW 760Li RWD 4dr,13,20,Gas,550,535,12,6.0,RWD,Auto,5015
+BMW ActiveHybrid 3 RWD 4dr,25,33,Hybrid,300,300,6,3.0,RWD,Auto,3825
+BMW ActiveHybrid 5 RWD 4dr,23,30,Hybrid,295,302,6,3.0,RWD,Auto,4398
+BMW ActiveHybrid 7 RWD 4dr,22,30,Hybrid,330,315,6,3.0,RWD,Auto,4680
+BMW Alpina B7 LWB 4d,16,25,Gas,538,540,8,4.4,RWD,Auto,5050
+Cadillac CTS 2.0 Luxury Collection Sport AWD 4dr,19,28,Gas,295,272,4,2.0,AWD,Auto,3805
+Cadillac CTS 2.0 Luxury Collection Sport RWD 4dr,20,30,Gas,295,272,4,2.0,RWD,Auto,3649
+Cadillac CTS 2.0 Performance Collection Sport AWD 4dr,19,28,Gas,295,272,4,2.0,AWD,Auto,3874
+Cadillac CTS 2.0 Performance Collection Sport RWD 4dr,20,30,Gas,295,272,4,2.0,RWD,Auto,3717
+Cadillac CTS 2.0 Premium Collection Sport AWD 4dr,19,28,Gas,295,272,4,2.0,AWD,Auto,3891
+Cadillac CTS 2.0 Premium Collection Sport RWD 4dr,20,30,Gas,295,272,4,2.0,RWD,Auto,3735
+Cadillac CTS 3.6 Luxury Collection Sport AWD 4dr,18,26,Gas,275,318,6,3.6,AWD,Auto,3889
+Cadillac CTS 3.6 Luxury Collection Sport RWD 4dr,18,29,Gas,275,318,6,3.6,RWD,Auto,3757
+Cadillac CTS 3.6 Performance Collection Sport AWD 4dr,18,26,Gas,275,318,6,3.6,AWD,Auto,3960
+Cadillac CTS 3.6 Performance Collection Sport RWD 4dr,18,29,Gas,275,318,6,3.6,RWD,Auto,3827
+Cadillac CTS 3.6 Premium Collection AWD 2dr,18,26,Gas,275,318,6,3.6,AWD,Auto,4102
+Cadillac CTS 3.6 Premium Collection Sport AWD 4dr,18,26,Gas,275,318,6,3.6,AWD,Auto,3977
+Cadillac CTS 3.6 Premium Collection Sport RWD 4dr,18,29,Gas,275,318,6,3.6,RWD,Auto,3845
+Cadillac CTS 3.6 V-Sport Premium Sport RWD 4dr,16,24,Gas,430,420,6,3.6,RWD,Auto,3952
+Cadillac CTS 3.6 V-Sport RWD 4dr,16,24,Gas,430,420,6,3.6,RWD,Auto,3952
+Cadillac CTS-V RWD 2d,14,19,Gas,551,556,8,6.2,RWD,Manual,4217
+Cadillac CTS-V RWD 4d,14,19,Gas,551,556,8,6.2,RWD,Manual,4204
+Cadillac ELR 2d,31,35,Hybrid,295,162,4,1.4,FWD,Auto,4048
+Cadillac XTS Luxury Collection 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,4006
+Cadillac XTS Luxury Collection AWD 4dr,17,26,Gas,264,304,6,3.6,AWD,Auto,4215
+Cadillac XTS Platinum Collection 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,4006
+Cadillac XTS Platinum Collection AWD 4dr,17,26,Gas,264,304,6,3.6,AWD,Auto,4215
+Cadillac XTS Premium Collection 4dr,18,28,Gas,264,304,6,3.6,FWD,Auto,4006
+Cadillac XTS Premium Collection AWD 4dr,17,26,Gas,264,304,6,3.6,AWD,Auto,4215
+Cadillac XTS Vsport Platinum Collection AWD 4dr,16,24,Gas,369,410,6,3.6,AWD,Auto,4215
+Cadillac XTS Vsport Premium Collection AWD 4dr,16,24,Gas,369,410,6,3.6,AWD,Auto,4215
+Chrysler 300 SRT8 RWD 4dr,14,23,Gas,470,470,8,6.4,RWD,Auto,4365
+Hyundai Equus Signature 4dr,15,23,Gas,376,429,8,5.0,RWD,Auto,4553
+Hyundai Equus Ultimate 4dr,15,23,Gas,376,429,8,5.0,RWD,Auto,4616
+Jaguar XF Sports AWD 4dr,16,26,Gas,332,340,6,3.0,AWD,Auto,4145
+Jaguar XF Supercharged Sports RWD 4dr,15,23,Gas,424,470,8,5.0,RWD,Auto,4134
+Jaguar XF V6 Sports RWD 4dr,17,28,Gas,332,340,6,3.0,RWD,Auto,3902
+Jaguar XFR RWD Sports 4dr,15,23,Gas,461,510,8,5.0,RWD,Auto,4134
+Jaguar XFR-S Sports RWD 4dr,15,23,Gas,502,550,8,5.0,RWD,Auto,4380
+Jaguar XJ AWD 4dr,16,24,Gas,332,340,6,3.0,AWD,Auto,4125
+Jaguar XJ RWD 4dr,18,27,Gas,332,340,6,3.0,RWD,Auto,3869
+Jaguar XJ Supercharged RWD 4dr,15,23,Gas,424,470,8,5.0,RWD,Auto,4123
+Jaguar XJL Portfolio AWD 4dr,16,24,Gas,332,340,6,3.0,AWD,Auto,4153
+Jaguar XJL Portfolio RWD 4dr,18,27,Gas,332,340,6,3.0,RWD,Auto,3957
+Jaguar XJL Supercharged RWD 4dr,15,23,Gas,424,470,8,5.0,RWD,Auto,4145
+Jaguar XJR LWB RWD 4dr,15,23,Gas,502,550,8,5.0,RWD,Auto,4145
+Jaguar XJR RWD 4dr,15,23,Gas,502,550,8,5.0,RWD,Auto,4123
+Lexus GS 350 AWD 4dr,19,26,Gas,277,306,6,3.5,AWD,Auto,3980
+Lexus GS 450h RWD 4dr,29,34,Hybrid,254,286,6,3.5,RWD,Auto,4190
+Lexus IS F Sport RWD 4dr,16,23,Gas,371,416,8,5.0,RWD,Auto,3780
+Lexus LS 460 AWD 4dr,16,23,Gas,367,386,8,4.6,AWD,Auto,4652
+Lexus LS 460 L AWD 4dr,16,23,Gas,367,386,8,4.6,AWD,Auto,4696
+Lexus LS 460 L RWD 4dr,16,24,Gas,367,386,8,4.6,RWD,Auto,4277
+Lexus LS 460 RWD 4dr,16,24,Gas,367,386,8,4.6,RWD,Auto,4233
+Lexus LS 600h L AWD 4dr,19,23,Hybrid,385,438,8,5.0,AWD,Auto,5159
+Maserati Ghibli 4d,15,25,Gas,550,410,6,3.0,RWD,Auto,3990
+Maserati Ghibli S Q4 4d,15,25,Gas,550,410,6,3.0,AWD,Auto,4123
+Mercedes-Benz C63 AMG RWD 2dr,13,19,Gas,443,451,8,6.3,RWD,Auto,3924
+Mercedes-Benz C63 AMG RWD 4dr,13,19,Gas,443,451,8,6.3,RWD,Auto,3924
+Mercedes-Benz CL550 4MATIC AWD 2dr,15,24,Gas,516,429,8,4.6,AWD,Auto,4740
+Mercedes-Benz CL600 RWD 2dr,12,18,Gas,612,510,12,5.5,RWD,Auto,4894
+Mercedes-Benz CL63 AMG RWD 2dr,15,22,Gas,590,536,8,5.5,RWD,Auto,4806
+Mercedes-Benz CL65 AMG RWD 2dr,12,18,Gas,738,621,12,6.0,RWD,Auto,5027
+Mercedes-Benz CLS550 4MATIC AWD 4dr,18,25,Gas,443,402,8,4.6,AWD,Auto,4442
+Mercedes-Benz CLS550 RWD 4dr,18,27,Gas,443,402,8,4.6,RWD,Auto,4255
+Mercedes-Benz CLS63 AMG 4MATIC AWD 4dr,16,22,Gas,516,518,8,5.5,AWD,Auto,4277
+Mercedes-Benz E250 BlueTEC 4MATIC AWD 4dr,27,42,Diesel,369,195,4,2.1,AWD,Auto,4409
+Mercedes-Benz E250 BlueTEC RWD 4dr,28,45,Diesel,369,195,4,2.1,RWD,Auto,4200
+Mercedes-Benz E350 4MATIC AWD 2dr,20,28,Gas,273,302,6,3.5,AWD,Auto,4001
+Mercedes-Benz E350 4MATIC AWD 4dr,20,28,Gas,273,302,6,3.5,AWD,Auto,3979
+Mercedes-Benz E350 RWD 2dr,20,28,Gas,273,302,6,3.5,RWD,Auto,3869
+Mercedes-Benz E350 RWD 4dr,21,30,Gas,273,302,6,3.5,RWD,Auto,3825
+Mercedes-Benz E350 RWD convertible,19,28,Gas,273,302,6,3.5,RWD,Auto,4101
+Mercedes-Benz E400 Hybrid RWD 4dr,24,30,Hybrid,457,329,6,3.5,RWD,Auto,4189
+Mercedes-Benz E550 4MATIC AWD 4dr,17,26,Gas,443,402,8,4.6,AWD,Auto,4145
+Mercedes-Benz E550 RWD 2dr,18,26,Gas,443,402,8,4.6,RWD,Auto,3773
+Mercedes-Benz E550 RWD convertible,17,26,Gas,443,402,8,4.6,RWD,Auto,4387
+Mercedes-Benz E63 AMG 4MATIC AWD 4dr,16,24,Gas,590,550,8,5.5,AWD,Auto,4048
+Mercedes-Benz S550 4MATIC AWD 4dr,15,24,Gas,516,449,8,4.6,AWD,Auto,4442
+Mercedes-Benz S550 RWD 4dr,17,25,Gas,516,449,8,4.6,RWD,Auto,4442
+Mercedes-Benz S63 AMG 4MATIC AWD 4dr,15,23,Gas,664,577,8,5.5,RWD,Auto,4563
+Porsche Panamera 4 AWD 4dr hatc,18,27,Gas,295,333,6,3.6,AWD,Auto,4012
+Porsche Panamera 4S AWD 4dr hatc,17,27,Gas,384,420,6,3.0,AWD,Auto,4123
+Porsche Panamera 4S Executive AWD 4dr hatc,17,26,Gas,384,420,6,3.0,AWD,Auto,4409
+Porsche Panamera GTS AWD 4dr hatc,16,24,Gas,384,440,8,4.8,AWD,Auto,4244
+Porsche Panamera RWD 4dr hatc,18,28,Gas,295,333,6,3.6,RWD,Auto,3902
+Porsche Panamera S E-Hybrid RWD 4dr hatc,22,30,Hybrid,325,333,6,3.0,RWD,Auto,4619
+Porsche Panamera S RWD 4dr hatc,17,27,Gas,384,420,6,3.0,RWD,Auto,3990
+Porsche Panamera Turbo AWD 4dr hatc,15,24,Gas,516,520,8,4.8,AWD,Auto,4343
+Porsche Panamera Turbo Executive AWD 4dr hatc,15,24,Gas,516,520,8,4.8,AWD,Auto,4564
+Acura TSX,22,30,Gas,170,201,4,2.4,FWD,Auto,3599
+Acura TSX w/Technology Pk,22,30,Gas,170,201,4,2.4,FWD,Auto,3599
+Audi allroad Premium Plus Quattro AW,20,27,Gas,258,220,4,2.0,AWD,Auto,3891
+Audi allroad Premium Quattro AW,20,27,Gas,258,220,4,2.0,AWD,Auto,3891
+Audi allroad Prestige Quattro AWD,20,27,Gas,258,220,4,2.0,AWD,Auto,3891
+BMW 328d xDrive AWD,31,43,Diesel,280,180,4,2.0,AWD,Auto,3790
+BMW 328i xDrive AWD,22,33,Gas,255,240,4,2.0,AWD,Auto,3780
+Cadillac CTS 3.0 Luxury Collection AWD,18,26,Gas,223,270,6,3.0,AWD,Auto,4213
+Cadillac CTS 3.0 Luxury Collection RWD,18,26,Gas,223,270,6,3.0,RWD,Auto,4024
+Cadillac CTS 3.6 Performance Collection AWD,18,26,Gas,275,318,6,3.6,AWD,Auto,4316
+Cadillac CTS 3.6 Performance Collection RWD,18,26,Gas,275,318,6,3.6,RWD,Auto,4096
+Cadillac CTS 3.6 Premium Collection AWD,18,26,Gas,275,318,6,3.6,AWD,Auto,4316
+Cadillac CTS 3.6 Premium Collection RWD,18,26,Gas,275,318,6,3.6,RWD,Auto,4096
+Cadillac CTS-V RW,14,19,Gas,551,556,8,6.2,RWD,Manual,4398
+Ford C-Max Energi SEL,44,41,Hybrid,129,141,4,2.0,FWD,Auto,3859
+Ford C-Max Hybrid SE,45,40,Hybrid,129,141,4,2.0,FWD,Auto,3607
+Ford C-Max Hybrid SEL,45,40,Hybrid,129,141,4,2.0,FWD,Auto,3607
+Mazda5 Grand Tourin,22,28,Gas,163,157,4,2.5,FWD,Auto,3457
+Mazda5 Spor,22,28,Gas,163,157,4,2.5,FWD,Auto,3457
+Mazda5 Spor,21,28,Gas,163,157,4,2.5,FWD,Manual,3417
+Mazda5 Tourin,22,28,Gas,163,157,4,2.5,FWD,Auto,3457
+Mercedes-Benz E350 4MATIC AWD,19,26,Gas,273,302,6,3.5,AWD,Auto,4213
+Subaru Outback 2.5i,24,30,Gas,174,173,4,2.5,AWD,Auto,3484
+Subaru Outback 2.5,22,29,Gas,174,173,4,2.5,AWD,Manual,3423
+Subaru Outback 2.5i (PZEV,24,30,Gas,174,173,4,2.5,AWD,Auto,3484
+Subaru Outback 2.5i (PZEV,22,29,Gas,174,173,4,2.5,AWD,Manual,3423
+Subaru Outback 2.5i Limited,24,30,Gas,174,173,4,2.5,AWD,Auto,3538
+Subaru Outback 2.5i Limited (PZEV,24,30,Gas,174,173,4,2.5,AWD,Auto,3538
+Subaru Outback 2.5i Premium,24,30,Gas,174,173,4,2.5,AWD,Auto,3508
+Subaru Outback 2.5i Premiu,22,29,Gas,174,173,4,2.5,AWD,Manual,3429
+Subaru Outback 2.5i Premium (PZEV,24,30,Gas,174,173,4,2.5,AWD,Auto,3508
+Subaru Outback 2.5i Premium (PZEV,22,29,Gas,174,173,4,2.5,AWD,Manual,3429
+Subaru Outback 3.6R Limited,18,25,Gas,247,256,6,3.6,AWD,Auto,3648
+Toyota Prius v Five,44,40,Hybrid,105,98,4,1.8,FWD,Auto,3274
+Toyota Prius v Three,44,40,Hybrid,105,98,4,1.8,FWD,Auto,3274
+Toyota Prius v Two,44,40,Hybrid,105,98,4,1.8,FWD,Auto,3274
+Volkswagen Jetta SportWagen ,23,30,Gas,177,170,5,2.5,FWD,Auto,3257
+Volkswagen Jetta SportWagen S,23,33,Gas,177,170,5,2.5,FWD,Manual,3186
+Volkswagen Jetta SportWagen S,23,30,Gas,177,170,5,2.5,FWD,Auto,3257
+Volkswagen Jetta SportWagen SE w/Moon Roo,23,30,Gas,177,170,5,2.5,FWD,Auto,3257
+Volkswagen Jetta SportWagen TD,29,39,Diesel,236,140,4,2.0,FWD,Auto,3341
+Volkswagen Jetta SportWagen TDI,30,42,Diesel,236,140,4,2.0,FWD,Manual,3283
+Volkswagen Jetta SportWagen TDI w/Moon Roo,29,39,Diesel,236,140,4,2.0,FWD,Auto,3341
+Volkswagen Jetta SportWagen TDI w/Moon Roo,30,42,Diesel,236,140,4,2.0,FWD,Manual,3283
+Volkswagen Jetta SportWagen TDI w/Moon Roof & Navigatio,29,39,Diesel,236,140,4,2.0,FWD,Auto,3341
+Volkswagen Jetta SportWagen TDI w/Moon Roof & Navigation,30,42,Diesel,236,140,4,2.0,FWD,Manual,3283
+Volvo XC70 3.2,18,26,Gas,236,240,6,3.2,FWD,Auto,4147
+Volvo XC70 3.2 Platinum,18,26,Gas,236,240,6,3.2,FWD,Auto,4147
+Volvo XC70 3.2 Premier,18,26,Gas,236,240,6,3.2,FWD,Auto,4147
+Volvo XC70 3.2 Premier Plus,18,26,Gas,236,240,6,3.2,FWD,Auto,4147
+Volvo XC70 T6 AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4152
+Volvo XC70 T6 Platinum AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4152
+Volvo XC70 T6 Premier Plus AWD,17,24,Gas,325,300,6,3.0,AWD,Auto,4152
+BMW X5 sDrive35i RWD,19,27,Gas,295,300,6,3.0,RWD,Auto,4680
+BMW X5 xDrive35d AWD,23,31,Diesel,425,265,6,3.0,AWD,Auto,5192
+BMW X5 xDrive35i AWD,18,27,Gas,295,300,6,3.0,AWD,Auto,4790
+BMW X5 xDrive50i AWD,14,22,Gas,479,445,8,4.4,AWD,Auto,5150
+Cadillac SRX,17,24,Gas,265,308,6,3.6,FWD,Auto,4277
+Cadillac SRX Luxury Collection,17,24,Gas,265,308,6,3.6,FWD,Auto,4277
+Cadillac SRX Luxury Collection AWD,16,23,Gas,265,308,6,3.6,AWD,Auto,4442
+Cadillac SRX Performance Collection,17,24,Gas,265,308,6,3.6,FWD,Auto,4277
+Cadillac SRX Performance Collection AWD,16,23,Gas,265,308,6,3.6,AWD,Auto,4442
+Cadillac SRX Premium Collection,17,24,Gas,265,308,6,3.6,FWD,Auto,4277
+Cadillac SRX Premium Collection AWD,16,23,Gas,265,308,6,3.6,AWD,Auto,4442
+Chevrolet Equinox LS,22,32,Gas,172,182,4,2.4,FWD,Auto,3777
+Chevrolet Equinox LS AWD,20,29,Gas,172,182,4,2.4,AWD,Auto,3926
+Chevrolet Equinox LT AWD w/1L,20,29,Gas,272,301,6,3.6,AWD,Auto,3924
+Chevrolet Equinox LT AWD w2L,20,29,Gas,272,301,6,3.6,AWD,Auto,3924
+Chevrolet Equinox LT w/1L,22,32,Gas,272,301,6,3.6,FWD,Auto,3758
+Chevrolet Equinox LT w/2L,22,32,Gas,272,301,6,3.6,FWD,Auto,3758
+Chevrolet Equinox LTZ,22,32,Gas,272,301,6,3.6,FWD,Auto,3829
+Chevrolet Equinox LTZ AWD,20,29,Gas,272,301,6,3.6,AWD,Auto,3993
+Ford Edge Limited,19,27,Gas,270,285,6,3.5,FWD,Auto,4052
+Ford Edge Limited AW,18,25,Gas,253,285,6,3.5,AWD,Auto,4226
+Ford Edge SE,19,27,Gas,270,285,6,3.5,FWD,Auto,4052
+Ford Edge SE AW,18,25,Gas,253,285,6,3.5,AWD,Auto,4226
+Ford Edge SEL,19,27,Gas,270,285,6,3.5,FWD,Auto,4052
+Ford Edge SEL AW,18,25,Gas,253,285,6,3.5,AWD,Auto,4226
+Ford Edge Sport,18,26,Gas,280,305,6,3.7,FWD,Auto,4282
+Ford Edge Sport AW,17,23,Gas,280,305,6,3.7,AWD,Auto,4458
+GMC Terrain Denali,22,32,Gas,272,301,6,3.6,FWD,Auto,3881
+GMC Terrain Denali AWD,20,29,Gas,272,301,6,3.6,AWD,Auto,4049
+GMC Terrain SLE-1,22,32,Gas,172,182,4,2.4,FWD,Auto,3853
+GMC Terrain SLE-1 AWD,20,29,Gas,172,182,4,2.4,AWD,Auto,4020
+GMC Terrain SLE-2,22,32,Gas,272,301,6,3.6,FWD,Auto,3867
+GMC Terrain SLE-2 AWD,20,29,Gas,272,301,6,3.6,AWD,Auto,4034
+GMC Terrain SLT-1,22,32,Gas,272,301,6,3.6,FWD,Auto,3867
+GMC Terrain SLT-1 AWD,20,29,Gas,272,301,6,3.6,AWD,Auto,4034
+GMC Terrain SLT-2,22,32,Gas,272,301,6,3.6,FWD,Auto,3881
+GMC Terrain SLT-2 AWD,20,29,Gas,272,301,6,3.6,AWD,Auto,4049
+Honda Pilot EX,18,25,Gas,253,250,6,3.5,FWD,Auto,4295
+Honda Pilot EX 4WD,17,24,Gas,253,250,6,3.5,4WD,Auto,4489
+Honda Pilot EX-L,18,25,Gas,253,250,6,3.5,FWD,Auto,4354
+Honda Pilot EX-L 4WD,17,24,Gas,253,250,6,3.5,4WD,Auto,4550
+Honda Pilot EX-L 4WD w/DVD Rear Seat Entertainmen,17,24,Gas,253,250,6,3.5,4WD,Auto,4564
+Honda Pilot EX-L 4WD w/Navigatio,17,24,Gas,253,250,6,3.5,4WD,Auto,4557
+Honda Pilot EX-L w/DVD Rear Seat Entertainmen,18,25,Gas,253,250,6,3.5,FWD,Auto,4374
+Honda Pilot EX-L w/Navigatio,18,25,Gas,253,250,6,3.5,FWD,Auto,4365
+Honda Pilot LX,18,25,Gas,253,250,6,3.5,FWD,Auto,4299
+Honda Pilot LX 4WD,17,24,Gas,253,250,6,3.5,4WD,Auto,4497
+Honda Pilot Touring,18,25,Gas,253,250,6,3.5,FWD,Auto,4414
+Honda Pilot Touring 4WD,17,24,Gas,253,250,6,3.5,4WD,Auto,4608
+Hyundai Santa Fe Sport,20,27,Gas,181,190,4,2.4,FWD,Auto,3459
+Hyundai Santa Fe Sport 2.0T,19,27,Gas,269,264,4,2.0,FWD,Auto,3569
+Hyundai Santa Fe Sport 2.0T AWD,18,24,Gas,269,264,4,2.0,AWD,Auto,3706
+Hyundai Santa Fe Sport 2.0T AWD w/Saddle Interior Colo,18,24,Gas,269,264,4,2.0,AWD,Auto,3706
+Hyundai Santa Fe Sport 2.0T w/Saddle Interior Colo,19,27,Gas,269,264,4,2.0,FWD,Auto,3569
+Hyundai Santa Fe Sport AWD,19,25,Gas,181,190,4,2.4,AWD,Auto,3616
+Infiniti QX70 AWD,16,22,Gas,267,325,6,3.7,AWD,Auto,4321
+Infiniti QX70 RWD,17,24,Gas,267,325,6,3.7,RWD,Auto,4209
+Infiniti QX70 5.0 AWD,14,20,Gas,369,390,8,5.0,AWD,Auto,4562
+Jeep Grand Cherokee Diesel Limited,22,30,Diesel,420,240,6,3.0,FWD,Auto,4875
+Jeep Grand Cherokee Laredo,17,25,Flexible Fuel,260,290,6,3.6,FWD,Auto,4545
+Jeep Grand Cherokee Laredo 4WD,17,24,Flexible Fuel,260,290,6,3.6,4WD,Auto,4677
+Jeep Grand Cherokee Laredo E,17,25,Flexible Fuel,260,290,6,3.6,FWD,Auto,4545
+Jeep Grand Cherokee Laredo E 4WD,17,24,Flexible Fuel,260,290,6,3.6,4WD,Auto,4677
+Jeep Grand Cherokee Limited,17,25,Gas,260,290,6,3.6,FWD,Auto,4685
+Jeep Grand Cherokee Limited 4WD,17,24,Gas,260,290,6,3.6,4WD,Auto,4875
+Jeep Grand Cherokee Overland,17,25,Gas,260,290,6,3.6,FWD,Auto,4754
+Jeep Grand Cherokee Overland 4WD,17,24,Gas,260,290,6,3.6,4WD,Auto,4984
+Jeep Grand Cherokee SRT 4WD,13,19,Gas,465,470,8,6.4,4WD,Auto,5150
+Jeep Grand Cherokee Summit,17,25,Gas,260,290,6,3.6,FWD,Auto,4725
+Jeep Grand Cherokee Summit 4WD,17,24,Gas,260,290,6,3.6,4WD,Auto,4955
+Kia Sorento EX,18,25,Gas,252,290,6,3.3,FWD,Auto,3722
+Kia Sorento EX AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,3894
+Kia Sorento LX,20,26,Gas,181,191,4,2.4,FWD,Auto,3594
+Kia Sorento LX AWD,19,24,Gas,181,191,4,2.4,AWD,Auto,3766
+Kia Sorento SX,18,25,Gas,252,290,6,3.3,FWD,Auto,3722
+Kia Sorento SX AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,3894
+Kia Sorento SXL,18,25,Gas,252,290,6,3.3,FWD,Auto,3722
+Kia Sorento SXL AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,3894
+Kia Sorento V6 LX,18,25,Gas,252,290,6,3.3,FWD,Auto,3722
+Kia Sorento V6 LX AWD,18,24,Gas,252,290,6,3.3,AWD,Auto,3894
+Land Rover Range Rover Sport Autobiography 4WD,14,19,Gas,461,510,8,5.0,4WD,Auto,5093
+Land Rover Range Rover Sport HSE 4WD,17,23,Gas,332,340,6,3.0,4WD,Auto,4727
+Land Rover Range Rover Sport SE 4WD,17,23,Gas,332,340,6,3.0,4WD,Auto,4727
+Land Rover Range Rover Sport Supercharged 4WD,14,19,Gas,461,510,8,5.0,4WD,Auto,5093
+Lexus RX 350,18,25,Gas,248,270,6,3.5,FWD,Auto,4178
+Lexus RX 350 AWD,18,24,Gas,248,270,6,3.5,AWD,Auto,4343
+Lexus RX 350 F Sport AWD,18,26,Gas,248,270,6,3.5,AWD,Auto,4510
+Lexus RX 450h,32,28,Hybrid,234,295,6,3.5,FWD,Auto,4520
+Lexus RX 450h AWD,30,28,Hybrid,234,295,6,3.5,AWD,Auto,4652
+Lincoln MKX AW,17,23,Gas,280,305,6,3.7,AWD,Auto,4413
+Mercedes-Benz ML350,18,24,Gas,273,302,6,3.5,FWD,Auto,4652
+Mercedes-Benz ML350 4MATIC AWD,17,22,Gas,273,302,6,3.5,AWD,Auto,4751
+Mercedes-Benz ML350 BlueTEC 4MATIC AWD,20,28,Diesel,455,240,6,3.0,AWD,Auto,5038
+Mercedes-Benz ML550 4MATIC AWD,14,19,Gas,443,402,8,4.6,AWD,Auto,4982
+Mercedes-Benz ML63 AMG 4MATIC AWD,13,17,Gas,516,518,8,5.5,AWD,Auto,5238
+Nissan Murano CrossCabriolet AWD,17,22,Gas,248,265,6,3.5,AWD,Auto,4435
+Nissan Murano LE,18,24,Gas,240,260,6,3.5,FWD,Auto,4007
+Nissan Murano LE AWD,18,23,Gas,240,260,6,3.5,AWD,Auto,4155
+Nissan Murano S,18,24,Gas,240,260,6,3.5,FWD,Auto,3823
+Nissan Murano S AWD,18,23,Gas,240,260,6,3.5,AWD,Auto,3971
+Nissan Murano SL,18,24,Gas,240,260,6,3.5,FWD,Auto,3975
+Nissan Murano SL AWD,18,23,Gas,240,260,6,3.5,AWD,Auto,4123
+Nissan Murano SV,18,24,Gas,240,260,6,3.5,FWD,Auto,3863
+Nissan Murano SV AWD,18,23,Gas,240,260,6,3.5,AWD,Auto,4011
+Porsche Cayenne AW,15,22,Gas,295,300,6,3.6,AWD,Manual,4398
+Porsche Cayenne Diesel AWD,19,29,Diesel,406,240,6,3.0,AWD,Auto,4795
+Porsche Cayenne GTS AWD,15,21,Gas,380,420,8,4.8,AWD,Auto,4597
+Porsche Cayenne S AWD,16,22,Gas,369,400,8,4.8,AWD,Auto,4553
+Porsche Cayenne S Hybrid AWD,20,24,Hybrid,428,380,6,3.0,AWD,Auto,4938
+Porsche Cayenne Turbo AWD,15,22,Gas,516,500,8,4.8,AWD,Auto,4784
+Porsche Cayenne Turbo S AWD,14,20,Gas,553,550,8,4.8,AWD,Auto,4883
+Subaru Tribeca 3.6R Limited AWD,16,21,Gas,247,256,6,3.6,AWD,Auto,4253
+Toyota Highlander LE,19,25,Gas,248,270,6,3.5,FWD,Auto,4244
+Toyota Highlander LE 4W,18,24,Gas,248,270,6,3.5,4WD,Auto,4398
+Toyota Highlander LE I,20,25,Gas,184,185,4,2.7,FWD,Auto,4134
+Toyota Highlander LE Plus,19,25,Gas,248,270,6,3.5,FWD,Auto,4244
+Toyota Highlander LE Plus 4W,18,24,Gas,248,270,6,3.5,4WD,Auto,4398
+Toyota Highlander Limite,19,25,Gas,248,270,6,3.5,FWD,Auto,4354
+Toyota Highlander Limited 4W,18,24,Gas,248,270,6,3.5,4WD,Auto,4509
+Toyota Highlander Limited Hybrid 4W,28,28,Hybrid,215,231,6,3.5,4WD,Auto,4861
+Toyota Highlander Limited Platinu,19,25,Gas,248,270,6,3.5,FWD,Auto,4354
+Toyota Highlander Limited Platinum 4W,18,24,Gas,248,270,6,3.5,4WD,Auto,4509
+Toyota Highlander Limited Platinum Hybrid 4W,28,28,Hybrid,215,231,6,3.5,4WD,Auto,4861
+Toyota Highlander XLE,19,25,Gas,248,270,6,3.5,FWD,Auto,4310
+Toyota Highlander XLE 4W,18,24,Gas,248,270,6,3.5,4WD,Auto,4464
+Toyota Venza LE,20,26,Gas,182,181,4,2.7,FWD,Auto,3760
+Toyota Venza LE AWD,20,26,Gas,182,181,4,2.7,AWD,Auto,3945
+Toyota Venza Limited,19,26,Gas,246,268,6,3.5,FWD,Auto,3870
+Toyota Venza Limited AWD,18,25,Gas,246,268,6,3.5,AWD,Auto,4045
+Toyota Venza V6 LE,19,26,Gas,246,268,6,3.5,FWD,Auto,3870
+Toyota Venza V6 LE AWD,18,25,Gas,246,268,6,3.5,AWD,Auto,4045
+Toyota Venza V6 XLE,19,26,Gas,246,268,6,3.5,FWD,Auto,3870
+Toyota Venza V6 XLE AWD,18,25,Gas,246,268,6,3.5,AWD,Auto,4045
+Toyota Venza XLE,20,26,Gas,182,181,4,2.7,FWD,Auto,3760
+Toyota Venza XLE AWD,20,26,Gas,182,181,4,2.7,AWD,Auto,3945
+Volkswagen Touareg Hybrid,20,24,Hybrid,325,333,6,3.0,AWD,Auto,5135
+Volkswagen Touareg TDI Executive,20,29,Diesel,406,240,6,3.0,AWD,Auto,4974
+Volkswagen Touareg TDI Lux,20,29,Diesel,406,240,6,3.0,AWD,Auto,4974
+Volkswagen Touareg TDI R-Line,20,29,Diesel,406,240,6,3.0,AWD,Auto,4974
+Volkswagen Touareg TDI Sport w/Navigatio,20,29,Diesel,406,240,6,3.0,AWD,Auto,4974
+Volkswagen Touareg VR6 Executive,17,23,Gas,266,280,6,3.6,AWD,Auto,4711
+Volkswagen Touareg VR6 Lux,17,23,Gas,266,280,6,3.6,AWD,Auto,4711
+Volkswagen Touareg VR6 R-Line,17,23,Gas,266,280,6,3.6,AWD,Auto,4711
+Volkswagen Touareg VR6 Sport,17,23,Gas,266,280,6,3.6,AWD,Auto,4711
+Volkswagen Touareg VR6 Sport w/Navigatio,17,23,Gas,266,280,6,3.6,AWD,Auto,4711
+Volvo XC90 3.2,16,25,Gas,236,240,6,3.2,FWD,Auto,4667
+Volvo XC90 3.2 Platinum,16,25,Gas,236,240,6,3.2,FWD,Auto,4667
+Volvo XC90 3.2 Premier Plus,16,25,Gas,236,240,6,3.2,FWD,Auto,4667
+Volvo XC90 3.2 R-Design,16,25,Gas,236,240,6,3.2,FWD,Auto,4753
+Volvo XC90 3.2 R-Design Platinum,16,25,Gas,236,240,6,3.2,FWD,Auto,4753
+Chevrolet Cruze 1LT 4dr w/1S,26,38,Gas,148,138,4,1.4,FWD,Manual,3102
+Chevrolet Sonic LS 4dr,25,35,Gas,125,138,4,1.8,FWD,Auto,2727
+Chevrolet Sonic LS 4d,26,35,Gas,125,138,4,1.8,FWD,Manual,2727
+Chevrolet Sonic LS 4dr hatch,25,35,Gas,125,138,4,1.8,FWD,Auto,2690
+Chevrolet Sonic LS 4dr hatc,26,35,Gas,125,138,4,1.8,FWD,Manual,2690
+Chevrolet Sonic LT 4dr,25,35,Gas,148,138,4,1.8,FWD,Auto,2745
+Chevrolet Sonic LT 4d,26,35,Gas,148,138,4,1.8,FWD,Manual,2745
+Chevrolet Sonic LT 4dr hatch,25,35,Gas,148,138,4,1.8,FWD,Auto,2712
+Chevrolet Sonic LT 4dr hatc,26,35,Gas,148,138,4,1.8,FWD,Manual,2712
+Chevrolet Sonic LTZ 4dr,25,35,Gas,148,138,4,1.8,FWD,Auto,2806
+Chevrolet Sonic LTZ 4d,26,35,Gas,148,138,4,1.8,FWD,Manual,2806
+Chevrolet Sonic LTZ 4dr hatc,26,35,Gas,148,138,4,1.8,FWD,Manual,2776
+Chevrolet Spark 1LT 4dr hatch,30,39,Gas,83,84,4,1.2,FWD,Auto,2368
+Chevrolet Spark 1LT 4dr hatc,31,39,Gas,83,84,4,1.2,FWD,Manual,2269
+Chevrolet Spark 2LT 4dr hatch,30,39,Gas,83,84,4,1.2,FWD,Auto,2368
+Chevrolet Spark 2LT 4dr hatc,31,39,Gas,83,84,4,1.2,FWD,Manual,2269
+Chevrolet Spark LS 4dr hatch,30,39,Gas,83,84,4,1.2,FWD,Auto,2368
+Chevrolet Spark LS 4dr hatc,31,39,Gas,83,84,4,1.2,FWD,Manual,2269
+Dodge Dart SE 4d,25,36,Gas,148,160,4,2.0,FWD,Manual,3186
+Dodge Dart SXT 4d,22,35,Gas,171,184,4,2.4,FWD,Manual,3297
+FIAT 500 Lounge 2dr hatc,31,40,Gas,98,101,4,1.4,FWD,Manual,2363
+FIAT 500 Pop 2dr hatc,31,40,Gas,98,101,4,1.4,FWD,Manual,2363
+FIAT 500 Sport 2dr hatch,31,40,Gas,98,101,4,1.4,FWD,Manual,2363
+FIAT 500L Pop 4dr hatc,25,33,Gas,184,160,4,1.4,FWD,Manual,3203
+Ford Fiesta S 4d,27,38,Gas,112,120,4,1.6,FWD,Manual,2578
+Ford Fiesta S 4dr hatc,27,38,Gas,112,120,4,1.6,FWD,Manual,2537
+Ford Fiesta SE 4d,27,38,Gas,148,123,4,1.6,FWD,Manual,2578
+Ford Fiesta SE 4dr hatc,27,38,Gas,148,123,4,1.6,FWD,Manual,2537
+Ford Fiesta Titanium 4d,27,38,Gas,112,120,4,1.6,FWD,Manual,2578
+Ford Fiesta Titanium 4dr hatc,27,38,Gas,112,120,4,1.6,FWD,Manual,2537
+Ford Focus S 4d,26,36,Gas,146,160,4,2.0,FWD,Manual,2935
+Ford Focus SE 4d,26,36,Gas,146,160,4,2.0,FWD,Manual,2960
+Ford Focus SE 4dr hatc,26,36,Gas,146,160,4,2.0,FWD,Manual,2948
+Honda Civic LX 2d,30,39,Gas,129,143,4,1.8,FWD,Auto,2811
+Honda Insight 4dr hatc,41,44,Hybrid,123,98,4,1.3,FWD,Auto,2747
+Hyundai Accent GLS 4dr,27,37,Gas,123,138,4,1.6,FWD,Auto,2546
+Hyundai Accent GLS 4d,27,38,Gas,123,138,4,1.6,FWD,Manual,2480
+Hyundai Accent GS 4dr hatch,27,37,Gas,123,138,4,1.6,FWD,Auto,2555
+Hyundai Accent GS 4dr hatc,27,38,Gas,123,138,4,1.6,FWD,Manual,2489
+Hyundai Accent SE 4dr hatch,27,37,Gas,123,138,4,1.6,FWD,Auto,2635
+Hyundai Accent SE 4dr hatc,27,38,Gas,123,138,4,1.6,FWD,Manual,2546
+Hyundai Elantra 2d,24,34,Gas,154,173,4,2.0,FWD,Auto,2818
+Hyundai Veloster 2dr hatch w/Black Interior Colo,28,35,Gas,120,132,4,1.6,FWD,Auto,2657
+Hyundai Veloster 2dr hatch w/Black Interior Colo,26,36,Gas,123,138,4,1.6,FWD,Manual,2584
+Hyundai Veloster 2dr hatch w/Black/Red Interior Colo,28,35,Gas,120,132,4,1.6,FWD,Auto,2657
+Hyundai Veloster 2dr hatch w/Black/Red Interior Colo,26,36,Gas,123,138,4,1.6,FWD,Manual,2584
+Hyundai Veloster 2dr hatch w/Gray Interior Colo,28,35,Gas,120,132,4,1.6,FWD,Auto,2657
+Hyundai Veloster 2dr hatch w/Gray Interior Colo,26,36,Gas,123,138,4,1.6,FWD,Manual,2584
+Kia Forte Koup EX 2d,25,34,Gas,154,173,4,2.0,FWD,Auto,2871
+Kia Forte LX 4dr,25,36,Gas,131,148,4,1.8,FWD,Auto,2781
+Kia Forte LX 4d,25,37,Gas,131,148,4,1.8,FWD,Manual,2736
+Kia Rio EX 4dr.,27,37,Gas,123,138,4,1.6,FWD,Auto,2573
+Kia Rio EX 4dr hatch,27,37,Gas,123,138,4,1.6,FWD,Auto,2564
+Kia Rio LX 4d,27,37,Gas,123,138,4,1.6,FWD,Auto,2573
+Kia Rio LX 4d,27,37,Gas,123,138,4,1.6,FWD,Manual,2494
+Kia Rio LX 4dr hatch,27,37,Gas,123,138,4,1.6,FWD,Auto,2564
+Kia Rio LX 4dr hatc,27,37,Gas,123,138,4,1.6,FWD,Manual,2479
+Kia Rio SX 4d,27,37,Gas,123,138,4,1.6,FWD,Auto,2573
+Kia Rio SX 4dr hatch,27,37,Gas,123,138,4,1.6,FWD,Auto,2564
+Kia Soul + 4dr hatc,23,31,Gas,151,164,4,2.0,FWD,Auto,2714
+Kia Soul 4dr hatc,24,30,Gas,118,130,4,1.6,FWD,Auto,2714
+Kia Soul 4dr hatc,24,30,Gas,118,130,4,1.6,FWD,Manual,2714
+Mazda2 Sport 4dr hatc,28,34,Gas,98,100,4,1.5,FWD,Auto,2359
+Mazda2 Sport 4dr hatc,29,35,Gas,98,100,4,1.5,FWD,Manual,2306
+Mazda2 Touring 4dr hatc,28,34,Gas,98,100,4,1.5,FWD,Auto,2359
+Mazda2 Touring 4dr hatc,29,35,Gas,98,100,4,1.5,FWD,Manual,2306
+Mazda3 i Sport 4d,29,41,Gas,150,155,4,2.0,FWD,Manual,2799
+Mazda3 i Sport 4dr hatc,29,40,Gas,150,155,4,2.0,FWD,Manual,2815
+Mazda3 i SV 4dr,30,41,Gas,150,155,4,2.0,FWD,Auto,2866
+Mazda3 i SV 4d,29,41,Gas,150,155,4,2.0,FWD,Manual,2799
+Mitsubishi Lancer ES 4dr,26,34,Gas,145,148,4,2.0,FWD,Auto,2932
+Mitsubishi Lancer ES 4d,25,34,Gas,145,148,4,2.0,FWD,Manual,2866
+Mitsubishi Lancer ES Sportback 4dr hatc,24,32,Gas,145,148,4,2.0,FWD,Auto,2932
+Mitsubishi Mirage DE 4dr hatc,34,42,Gas,74,74,3,1.2,FWD,Manual,1973
+Mitsubishi Mirage ES 4dr hatc,34,42,Gas,74,74,3,1.2,FWD,Manual,1973
+Nissan Cube S 4dr hatch,27,31,Gas,127,122,4,1.8,FWD,Manual,2830
+Nissan Sentra FE+ S 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2826
+Nissan Sentra FE+ SV 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2838
+Nissan Sentra S 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2825
+Nissan Sentra S 4d,27,36,Gas,128,130,4,1.8,FWD,Manual,2822
+Nissan Sentra SR 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2847
+Nissan Sentra SV 4dr,30,39,Gas,128,130,4,1.8,FWD,Auto,2837
+Nissan Versa Note S 4dr hatc,27,36,Gas,107,109,4,1.6,FWD,Manual,2412
+Nissan Versa Note S Plus 4dr hatch,31,40,Gas,107,109,4,1.6,FWD,Auto,2460
+Nissan Versa Note SV 4dr hatch,31,40,Gas,107,109,4,1.6,FWD,Auto,2482
+Nissan Versa S 4dr,26,35,Gas,107,109,4,1.6,FWD,Auto,2421
+Nissan Versa S 4d,27,36,Gas,107,109,4,1.6,FWD,Manual,2363
+Nissan Versa S Plus 4dr,31,40,Gas,107,109,4,1.6,FWD,Auto,2437
+Nissan Versa SL 4dr,31,40,Gas,107,109,4,1.6,FWD,Auto,2498
+Nissan Versa SV 4dr,31,40,Gas,107,109,4,1.6,FWD,Auto,2468
+Scion iQ 10 Series 2dr hatch (Limited Edition,36,37,Gas,89,94,4,1.3,FWD,Auto,2127
+Scion iQ 2dr hatch,36,37,Gas,89,94,4,1.3,FWD,Auto,2127
+Scion tC 2dr hatc,23,31,Gas,172,172,4,2.5,FWD,Manual,3082
+Scion xB 4dr hatc,22,28,Gas,162,158,4,2.4,FWD,Auto,3084
+Scion xB 4dr hatch,22,28,Gas,162,158,4,2.4,FWD,Auto,3027
+Scion xD 4dr hatch,27,33,Gas,125,128,4,1.8,FWD,Auto,2665
+Scion xD 4dr hatc,27,33,Gas,125,128,4,1.8,FWD,Manual,2625
+smart fortwo Passion 2dr hatc,34,38,Gas,68,70,3,1.0,RWD,Auto,1808
+smart fortwo Passion convertibl,34,38,Gas,68,70,3,1.0,RWD,Auto,1808
+smart fortwo Pure 2dr hatc,34,38,Gas,68,70,3,1.0,RWD,Auto,1808
+Subaru Impreza 2.0i AWD 4dr,27,36,Gas,145,148,4,2.0,AWD,Auto,2976
+Subaru Impreza 2.0i AWD 4d,25,34,Gas,145,148,4,2.0,AWD,Manual,2910
+Subaru Impreza 2.0i AWD 4dr hatc,25,33,Gas,145,148,4,2.0,AWD,Manual,2910
+Toyota Corolla L 4dr,27,36,Gas,128,132,4,1.8,FWD,Auto,2820
+Toyota Corolla L 4d,28,37,Gas,128,132,4,1.8,FWD,Manual,2800
+Toyota Corolla LE 4dr,29,38,Gas,128,132,4,1.8,FWD,Auto,2855
+Toyota Corolla LE Eco 4dr,30,42,Gas,126,140,4,1.8,FWD,Auto,2855
+Toyota Corolla LE Plus 4dr,29,38,Gas,128,132,4,1.8,FWD,Auto,2855
+Toyota Corolla S 4dr,29,37,Gas,128,132,4,1.8,FWD,Auto,2865
+Toyota Prius c One 4dr hatch,53,46,Hybrid,82,73,4,1.5,FWD,Auto,2500
+Toyota Yaris L 2dr hatch,30,36,Gas,103,106,4,1.5,FWD,Auto,2315
+Toyota Yaris L 2dr hatc,30,37,Gas,103,106,4,1.5,FWD,Manual,2295
+Toyota Yaris L 4dr hatch,30,36,Gas,103,106,4,1.5,FWD,Auto,2315
+Toyota Yaris LE 2dr hatch,30,36,Gas,103,106,4,1.5,FWD,Auto,2315
+Toyota Yaris LE 4dr hatch,30,36,Gas,103,106,4,1.5,FWD,Auto,2315
+Toyota Yaris SE 4dr hatch,30,36,Gas,103,106,4,1.5,FWD,Auto,2315
+Toyota Yaris SE 4dr hatc,30,37,Gas,103,106,4,1.5,FWD,Manual,2295
+Volkswagen Jetta S 4dr,23,29,Gas,125,115,4,2.0,FWD,Auto,2935
+Volkswagen Jetta S 4d,24,34,Gas,125,115,4,2.0,FWD,Manual,2836
+Volkswagen Jetta SE 4d,26,36,Gas,184,170,4,1.8,FWD,Manual,3021
+Chrysler Town & Country Limited,17,25,Gas,260,283,6,3.6,FWD,Auto,4621
+Chrysler Town & Country Touring,17,25,Gas,260,283,6,3.6,FWD,Auto,4335
+Chrysler Town & Country Touring-L,17,25,Gas,260,283,6,3.6,FWD,Auto,4507
+Dodge Grand Caravan AVP,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Dodge Grand Caravan R/T,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Dodge Grand Caravan SE,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Dodge Grand Caravan SE 30th Anniversary,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Dodge Grand Caravan SXT,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Dodge Grand Caravan SXT 30th Anniversary,17,25,Flexible Fuel,260,283,6,3.6,FWD,Auto,4321
+Honda Odyssey EX,19,28,Gas,250,248,6,3.5,FWD,Auto,4470
+Honda Odyssey EX-L,19,28,Gas,250,248,6,3.5,FWD,Auto,4526
+Honda Odyssey EX-L w/DVD Rear Seat Entertainmen,19,28,Gas,250,248,6,3.5,FWD,Auto,4548
+Honda Odyssey EX-L w/Navigatio,19,28,Gas,250,248,6,3.5,FWD,Auto,4540
+Honda Odyssey LX,19,28,Gas,250,248,6,3.5,FWD,Auto,4396
+Honda Odyssey Touring,19,28,Gas,250,248,6,3.5,FWD,Auto,4581
+Honda Odyssey Touring Elite,19,28,Gas,250,248,6,3.5,FWD,Auto,4613
+Kia Sedona EX,17,24,Gas,246,269,6,3.5,FWD,Auto,4456
+Kia Sedona LX,17,24,Gas,246,269,6,3.5,FWD,Auto,4456
+Nissan Quest LE,19,25,Gas,240,260,6,3.5,FWD,Auto,4553
+Nissan Quest S,19,25,Gas,240,260,6,3.5,FWD,Auto,4349
+Nissan Quest SL,19,25,Gas,240,260,6,3.5,FWD,Auto,4489
+Nissan Quest SV,19,25,Gas,240,260,6,3.5,FWD,Auto,4387
+Toyota Sienna L,18,25,Gas,245,266,6,3.5,FWD,Auto,4310
+Toyota Sienna LE (7-Passenger Mobility,18,25,Gas,245,266,6,3.5,FWD,Auto,4415
+Toyota Sienna LE (8-Passenger,18,25,Gas,245,266,6,3.5,FWD,Auto,4415
+Toyota Sienna LE (Auto Access Seat,18,25,Gas,245,266,6,3.5,FWD,Auto,4415
+Toyota Sienna LE AWD,16,23,Gas,245,266,6,3.5,AWD,Auto,4590
+Toyota Sienna Limited,18,25,Gas,245,266,6,3.5,FWD,Auto,4515
+Toyota Sienna Limited AWD,16,23,Gas,245,266,6,3.5,AWD,Auto,4735
+Toyota Sienna SE,18,25,Gas,245,266,6,3.5,FWD,Auto,4480
+Toyota Sienna XLE (8-Passenger,18,25,Gas,245,266,6,3.5,FWD,Auto,4465
+Toyota Sienna XLE (Auto Access Seat,18,25,Gas,245,266,6,3.5,FWD,Auto,4465
+Toyota Sienna XLE AWD,16,23,Gas,245,266,6,3.5,AWD,Auto,4735
+Cadillac Escalade,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5527
+Cadillac Escalade AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5718
+Cadillac Escalade ESV,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5787
+Cadillac Escalade ESV AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5982
+Cadillac Escalade ESV Luxury,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5787
+Cadillac Escalade ESV Luxury AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5982
+Cadillac Escalade ESV Platinum Edition,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5787
+Cadillac Escalade ESV Platinum Edition AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5982
+Cadillac Escalade ESV Premium,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5787
+Cadillac Escalade ESV Premium AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5982
+Cadillac Escalade Luxury,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5527
+Cadillac Escalade Luxury AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5718
+Cadillac Escalade Platinum Edition,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5527
+Cadillac Escalade Platinum Edition AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5718
+Cadillac Escalade Premium,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5527
+Cadillac Escalade Premium AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5718
+Chevrolet Suburban 1500 LS,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5674
+Chevrolet Suburban 1500 LS 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5820
+Chevrolet Suburban 1500 LT,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5674
+Chevrolet Suburban 1500 LT 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5820
+Chevrolet Suburban 1500 LTZ,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5674
+Chevrolet Suburban 1500 LTZ 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5820
+Chevrolet Tahoe LS,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5467
+Chevrolet Tahoe LS 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5694
+Chevrolet Tahoe LT,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5467
+Chevrolet Tahoe LT 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5694
+Chevrolet Tahoe LTZ,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5467
+Chevrolet Tahoe LTZ 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5694
+Ford Expedition EL King Ranch,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5844
+Ford Expedition EL King Ranch 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,6078
+Ford Expedition EL Limited,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5844
+Ford Expedition EL Limited 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,6078
+Ford Expedition EL XLT,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5844
+Ford Expedition EL XLT 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,6078
+Ford Expedition King Ranch,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5549
+Ford Expedition King Ranch 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,5781
+Ford Expedition Limited,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5549
+Ford Expedition Limited 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,5781
+Ford Expedition XLT,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5549
+Ford Expedition XLT 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,5781
+GMC Yukon Denali,14,18,Flexible Fuel,417,403,8,6.2,FWD,Auto,5491
+GMC Yukon Denali AWD,13,18,Flexible Fuel,417,403,8,6.2,AWD,Auto,5685
+GMC Yukon SLE,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5467
+GMC Yukon SLE 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5694
+GMC Yukon SLT,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5467
+GMC Yukon SLT 4WD,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5694
+GMC Yukon XL 1500 Denali,14,18,Flexible Fuel,403,403,8,6.2,FWD,Auto,5739
+GMC Yukon XL 1500 Denali AW,13,18,Flexible Fuel,403,403,8,6.2,AWD,Auto,5939
+GMC Yukon XL 1500 SL,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5674
+GMC Yukon XL 1500 SLE 4W,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5820
+GMC Yukon XL 1500 SL,15,21,Flexible Fuel,335,320,8,5.3,FWD,Auto,5674
+GMC Yukon XL 1500 SLT 4W,15,21,Flexible Fuel,335,320,8,5.3,4WD,Auto,5820
+Infiniti QX80,14,20,Gas,413,400,8,5.6,FWD,Auto,5633
+Infiniti QX80 AWD,14,20,Gas,413,400,8,5.6,AWD,Auto,5878
+Jeep Wrangler Rubicon 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,4104
+Jeep Wrangler Rubicon X 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,4104
+Jeep Wrangler Sahara 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,3951
+Jeep Wrangler Sahara Polar Edition 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,3951
+Jeep Wrangler Sport 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,3760
+Jeep Wrangler Sport Freedom Edition 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,3760
+Jeep Wrangler Sport S 4W,17,21,Gas,260,285,6,3.6,4WD,Manual,3760
+Jeep Wrangler Unlimited Rubicon 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4315
+Jeep Wrangler Unlimited Rubicon X 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4315
+Jeep Wrangler Unlimited Sahara 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4269
+Jeep Wrangler Unlimited Sahara Dragon 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4269
+Jeep Wrangler Unlimited Sahara Polar Edition 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4269
+Jeep Wrangler Unlimited Sport 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4075
+Jeep Wrangler Unlimited Sport S 4W,16,21,Gas,260,285,6,3.6,4WD,Manual,4075
+Lexus GX 460 4WD,15,20,Gas,329,301,8,4.6,4WD,Auto,5128
+Lexus GX 460 Luxury 4WD,15,20,Gas,329,301,8,4.6,4WD,Auto,5179
+Lexus LX 570 4WD,12,17,Gas,403,383,8,5.7,4WD,Auto,6000
+Lincoln Navigator,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,5780
+Lincoln Navigator 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,5986
+Lincoln Navigator L,14,20,Flexible Fuel,365,310,8,5.4,FWD,Auto,6031
+Lincoln Navigator L 4WD,13,18,Flexible Fuel,365,310,8,5.4,4WD,Auto,6239
+Mercedes-Benz G550 4MATIC AWD,12,15,Gas,391,382,8,5.5,AWD,Auto,5578
+Mercedes-Benz G63 AMG 4MATIC AWD,12,14,Gas,560,536,8,5.5,AWD,Auto,5622
+Nissan Armada Platinum,13,19,Gas,385,317,8,5.6,FWD,Auto,5549
+Nissan Armada Platinum 4WD,12,18,Gas,385,317,8,5.6,4WD,Auto,5841
+Nissan Armada SL,13,19,Gas,385,317,8,5.6,FWD,Auto,5456
+Nissan Armada SL 4WD,12,18,Gas,385,317,8,5.6,4WD,Auto,5748
+Nissan Armada SV,13,19,Gas,385,317,8,5.6,FWD,Auto,5267
+Nissan Armada SV 4WD,12,18,Gas,385,317,8,5.6,4WD,Auto,5675
+Nissan Xterra PRO-4X 4WD,15,20,Gas,281,261,6,4.0,4WD,Auto,4425
+Nissan Xterra PRO-4X 4W,16,20,Gas,281,261,6,4.0,4WD,Manual,4408
+Nissan Xterra S,16,22,Gas,281,261,6,4.0,FWD,Auto,4140
+Nissan Xterra S 4WD,15,20,Gas,281,261,6,4.0,4WD,Auto,4353
+Nissan Xterra S 4W,16,20,Gas,281,261,6,4.0,4WD,Manual,4357
+Nissan Xterra X,16,22,Gas,281,261,6,4.0,FWD,Auto,4148
+Nissan Xterra X 4WD,15,20,Gas,281,261,6,4.0,4WD,Auto,4359
+Toyota 4Runner Limited,17,22,Gas,278,270,6,4.0,FWD,Auto,4525
+Toyota 4Runner Limited 4WD,17,21,Gas,278,270,6,4.0,4WD,Auto,4805
+Toyota 4Runner SR5,17,22,Gas,278,270,6,4.0,FWD,Auto,4400
+Toyota 4Runner SR5 4WD,17,21,Gas,278,270,6,4.0,4WD,Auto,4675
+Toyota 4Runner SR5 Premium,17,22,Gas,278,270,6,4.0,FWD,Auto,4400
+Toyota 4Runner SR5 Premium 4WD,17,21,Gas,278,270,6,4.0,4WD,Auto,4675
+Toyota 4Runner Trail 4WD,17,21,Gas,278,270,6,4.0,4WD,Auto,4750
+Toyota 4Runner Trail Premium 4WD,17,21,Gas,278,270,6,4.0,4WD,Auto,4750
+Toyota FJ Cruise,16,20,Gas,271,260,6,4.0,FWD,Auto,4050
+Toyota FJ Cruiser 4W,17,20,Gas,271,260,6,4.0,4WD,Auto,4295
+Toyota FJ Cruiser 4W,15,18,Gas,271,260,6,4.0,4WD,Manual,4290
+Toyota Land Cruiser 4WD,13,18,Gas,401,381,8,5.7,4WD,Auto,5730
+Toyota Sequoia Limited,13,17,Gas,401,381,8,5.7,FWD,Auto,5730
+Toyota Sequoia Limited 4WD,13,17,Gas,401,381,8,5.7,4WD,Auto,5985
+Toyota Sequoia Limited 4WD (Flexible Fuel,13,17,Flexible Fuel,401,381,8,5.7,4WD,Auto,5985
+Toyota Sequoia Platinum,13,17,Gas,401,381,8,5.7,FWD,Auto,5745
+Toyota Sequoia Platinum 4WD,13,17,Gas,401,381,8,5.7,4WD,Auto,6045
+Toyota Sequoia Platinum 4WD (Flexible Fuel,13,17,Flexible Fuel,401,381,8,5.7,4WD,Auto,6045
+Toyota Sequoia SR5,13,17,Gas,401,381,8,5.7,FWD,Auto,5730
+Toyota Sequoia SR5 4WD,13,17,Gas,401,381,8,5.7,4WD,Auto,5985
+Toyota Sequoia SR5 4WD (Flexible Fuel,13,17,Flexible Fuel,401,381,8,5.7,4WD,Auto,5985

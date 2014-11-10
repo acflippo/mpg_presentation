@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Estimate MPG for vehicles</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Estimate MPG for vehicles">
+  <meta name="author" content="Annie Flippo - 11/9/2014">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/nvd3/css/nv.d3.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/rNVD3.css"></link>
+<link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  <script src="libraries/widgets/nvd3/js/jquery-1.8.2.min.js"></script>
+<script src="libraries/widgets/nvd3/js/d3.v3.min.js"></script>
+<script src="libraries/widgets/nvd3/js/nv.d3.min-new.js"></script>
+<script src="libraries/widgets/nvd3/js/fisheye.js"></script>
+
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Estimate MPG for vehicles</h1>
+    <h2>An analysis of 2014 vehicle data</h2>
+    <p>Annie Flippo - 11/9/2014<br/>Developing Data Products Coursera class, part of Johns Hopkins Data Science Series</p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Introduction</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>This project uses the <a href="http://www.kiplinger.com/tool/cars/T011-S001-2012-new-car-rankings-compare-costs-performance-da/index.php?table=all&amp;mfr=&amp;filter=all?id=all">2014 Kiplinger&#39;s New Car Rankings: Compare Costs, Performance data</a> to analyze the City and Highway MPG based on vehicle attributes. </p>
+
+<p>Modern vehicles have new attributes that may be important in determining MPG such as</p>
+
+<ul>
+<li>Fuel type (i.e. Flexible Fuel, Hybrid)</li>
+<li>Transmission type (i.e. Hybrid)</li>
+<li>Drivetrain (All-wheel, front-wheel, rear-wheel drive)</li>
+</ul>
+
+<p>The significant predictors from the final analyses were used to create an interactive Shiny App to estimate City and Highway MPG.  You might want to <a href="https://acflippo.shinyapps.io/estimateMPG/">Estimate Your Fuel Efficiency</a> with this calculator before buying your new car.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Data Gathering and Preparation</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>There were 1626 new vehicle listed in the Kiplinger&#39;s data set.  Many of the vehicles listed were a flavor of the base model such as Acura ILX 2.0L 4d and Acura ILX 2.0L 4d w/Premium Pkg.  Duplicates of make and model combinations were removed, based on trim/technology or other superficial options, because the data point is already represented in its base make/model.  The final dataset consists of the base models and their variations in:</p>
+
+<ul>
+<li>number of cylinders</li>
+<li>engine fuel type (diesel, flexible fuel, gas, hybrid)</li>
+<li>engine displacement (in liters)</li>
+<li>transmission type (automatic or manual)</li>
+<li>drivetrain type (all-wheel, front-wheel, rear-wheel drive)</li>
+<li>weight (in pounds)</li>
+</ul>
+
+<p>In addition, all electric vehicles were eliminated as they do not use conventional fuel and their MPG is stated by another measure, eMPG.  The final data set consists of 1473 rows.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>The Analysis</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>Stepwise model selection was performed using stepAIC to tease out significant predictors.<br></li>
+<li>Predictors (at 95% significant level) were used to perform a linear regression on city_mpg and hwy_mpg.</li>
+<li>This resulted in simple linear equation that could be easily implemented.</li>
+</ol>
+
+<p><em>Note</em>: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine, go ahead and try it out yourself <a href="https://acflippo.shinyapps.io/estimateMPG/">Estimate Fuel Efficiency</a></p>
+
+<pre><code>Source: local data frame [4 x 2]
+
+       eng_type percent_of_data
+1        Diesel           3.530
+2 Flexible Fuel           6.178
+3           Gas          84.929
+4        Hybrid           5.363
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Interactive Graph of MPG vs Fuel Type</h2>
+  </hgroup>
+  <article data-timings="">
+    <h4>Grouped by number of cylinders</h4>
+
+<p>To select or deselect number of cylinders shown in the graph, click on the number legend on the upper-right corner. </p>
+
+<p><iframe src=' assets/fig/nvd3plot2.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- chart1 ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style></p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Introduction'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Data Gathering and Preparation'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='The Analysis'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='Interactive Graph of MPG vs Fuel Type'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
