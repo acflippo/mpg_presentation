@@ -46,7 +46,7 @@ In addition, all electric vehicles were eliminated as they do not use convention
 2. Predictors (at 95% significant level) were used to perform a linear regression on city\_mpg and hwy\_mpg.
 3. This resulted in simple linear equation that could be easily implemented.
 
-*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine (see below for the fuel-type percentages), go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/). See [Code for this analysis](https://github.com/acflippo/mpg_presentation).
+*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine (see below for the fuel-type percentages), go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/). See [Code for this analysis](https://github.com/acflippo/mpg_presentation/tree/gh-pages).
 
 ```{r ,comment="", message=F, echo=F, warning=F}
 library(dplyr)

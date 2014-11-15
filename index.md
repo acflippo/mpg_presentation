@@ -1,7 +1,7 @@
 ---
 title       : Estimate MPG for vehicles
 subtitle    : An analysis of 2014 vehicle data
-author      : Annie Flippo - 11/9/2014
+author      : Annie Flippo - 11/15/2014
 job         : Developing Data Products Coursera class, part of Johns Hopkins Data Science Series
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -46,7 +46,7 @@ In addition, all electric vehicles were eliminated as they do not use convention
 2. Predictors (at 95% significant level) were used to perform a linear regression on city\_mpg and hwy\_mpg.
 3. This resulted in simple linear equation that could be easily implemented.
 
-*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine (see below for the fuel-type percentages), go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/). See [Code for this analysis](https://github.com/acflippo/mpg_presentation).
+*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine (see below for the fuel-type percentages), go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/). See [Code for this analysis](https://github.com/acflippo/mpg_presentation/tree/gh-pages).
 
 
 ```
