@@ -20,7 +20,9 @@ Modern vehicles have new attributes that may be important in determining MPG suc
 - Transmission type (i.e. Hybrid)
 - Drivetrain (All-wheel, front-wheel, rear-wheel drive)
 
-The significant predictors from the final analyses were used to create an interactive Shiny App to estimate City and Highway MPG.  You might want to [Estimate Your Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/) with this calculator before buying your new car.
+The significant predictors from the final analyses were used to create an interactive Shiny App to estimate City and Highway MPG.  
+
+Are you a car designer or an enthusiast? [Estimate the Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/) of the new car design with this calculator!
 
 --- .class #id 
 
@@ -44,7 +46,7 @@ In addition, all electric vehicles were eliminated as they do not use convention
 2. Predictors (at 95% significant level) were used to perform a linear regression on city\_mpg and hwy\_mpg.
 3. This resulted in simple linear equation that could be easily implemented.
 
-*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine, go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/)
+*Note*: The data set was overwhelming consisted of Gas engine cars so the predictions were more accurate for Gas engine (see below for the fuel-type percentages), go ahead and try it out yourself [Estimate Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/). See [Code for this analysis](https://github.com/acflippo/mpg_presentation).
 
 
 ```
