@@ -12,17 +12,17 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 --- 
 
-## Introduction
-This project uses the [2014 Kiplinger's New Car Rankings: Compare Costs, Performance data](http://www.kiplinger.com/tool/cars/T011-S001-2012-new-car-rankings-compare-costs-performance-da/index.php?table=all&mfr=&filter=all?id=all) to analyze the City and Highway MPG based on vehicle attributes. 
+## Are you a car designer or a car enthusiast?
+Do you want to know how fuel-efficient is your newly designed car before it is built or remodeled?
+
+This is a MPG calculator based on analysis of the [2014 Kiplinger's New Car Rankings: Compare Costs, Performance data](http://www.kiplinger.com/tool/cars/T011-S001-2012-new-car-rankings-compare-costs-performance-da/index.php?table=all&mfr=&filter=all?id=all)
 
 Modern vehicles have new attributes that may be important in determining MPG such as
 - Fuel type (i.e. Flexible Fuel, Hybrid)
 - Transmission type (i.e. Hybrid)
 - Drivetrain (All-wheel, front-wheel, rear-wheel drive)
 
-The significant predictors from the final analyses were used to create an interactive Shiny App to estimate City and Highway MPG.  
-
-Are you a car designer or an enthusiast? [Estimate the Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/) of the new car design with this calculator!
+Try the calculator here [Estimate the Fuel Efficiency](https://acflippo.shinyapps.io/estimateMPG/)!
 
 --- .class #id 
 
