@@ -13,7 +13,7 @@ School of Health Data Science Track.
 * kiplingerWebScrap.R - web scraping R file to gather data
 * kiplinger_car_facts.csv - resultant data file gathered from kiplinger's site
 * mpgLinearAnalysis.R - exploratory linear analysis file
-* libraries/  - directory of libraries needed for this index.hmtl
+* libraries/  - directory of libraries needed for this index.html
 * assets/  - directory assets needed for this index.html
 
 ## Usage
